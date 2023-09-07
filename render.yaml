@@ -1,0 +1,9 @@
+services:
+  - name: your-service-name
+    buildCommand: yarn build
+    environment:
+      - name: NODE_ENV
+        value: production
+    routes:
+      - primary: true
+        path: /

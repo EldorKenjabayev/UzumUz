@@ -1,0 +1,314 @@
+.Product_Content {
+  grid-row-gap: 20px;
+  grid-column-gap: 20px;
+  display: grid;
+  grid-template-columns: repeat(5, 01fr);
+  margin-bottom: 40px;
+}
+.Card_Product_Link {
+  text-decoration: none; 
+  color: inherit; 
+}
+
+.RouteContent {
+  display: none;
+}
+
+.DisplayProduct.hidden {
+  display: none;
+}
+.DisplayProduct2.hidden {
+  display: none;
+}
+.DisplayProduct3.hidden {
+  display: none;
+}
+
+
+.price {
+  font-size: 22px;
+}
+
+.MoreProduct {
+  width: 50%;
+}
+.Card_Product {
+  backface-visibility: hidden;
+  background-color: #fff;
+  border-radius: 8px;
+  cursor: pointer;
+  display: block;
+  opacity: 1;
+  overflow: hidden;
+  position: relative;
+  transition: all 0.25s;
+  width: 100%;
+  height: 100%;
+  padding-bottom: 75px;
+  user-select: none;
+}
+@media screen and (max-width: 1437px) {
+  .Product_Content {
+    grid-template-columns: repeat(4, 5fr);
+  }
+}
+
+@media screen and (max-width: 300vw) {
+  .Card_Product {
+    height: 650px;
+  }
+  .Card_Product_ImgContainer {
+    width: 100%;
+  }
+}
+
+.Card_Product:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.description {
+  font-size: 18px;
+}
+
+.Card_Product_ImgContainer {
+  border-radius: 8px;
+  overflow: hidden;
+  position: relative;
+  transform: translateZ(0);
+  transition: all 0.35s;
+  height: 490px;
+}
+
+.Card_Product img {
+  border-radius: 8px;
+  height: 100%;
+
+  object-fit: cover;
+  object-position: center;
+  position: absolute;
+
+  width: 100%;
+}
+
+.Card_Product img:hover {
+  transform: scale(1.03);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.Card_Product_Content {
+  padding: 0px;
+}
+
+.Card_Product_Title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.Card_Product_Price {
+  font-size: 16px;
+  color: #e74c3c;
+}
+
+.Heart_Icon {
+  position: absolute;
+  top: 15px;
+  right:8%;
+  z-index: 1000;
+}
+
+.Heart_Icon .ui-icon {
+  width: 30px;
+  height: 30px;
+}
+
+@media screen and (max-width: 1203px) {
+  .Product_Content {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  .Card_Product {
+    height: 520px;
+  }
+  .Card_Product_ImgContainer {
+    height: 320px;
+  }
+  .price {
+    font-size: 18px;
+  }
+  .previousprice {
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .Product_Content {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  .Card_Product_ImgContainer {
+    height: 300px;
+  }
+
+  .ChegirmaTitle {
+    display: none;
+  }
+
+  .Chegirma {
+    padding-top: 5vh;
+  }
+
+  .RouteContent {
+    display: flex;
+    gap: 3vw;
+    position: relative;
+  }
+  
+  .RouteContent h3{
+    position: relative;
+    cursor: pointer;
+    user-select: none;
+    color: #62656A;
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 18px;
+    margin-bottom: 5vh;
+  }
+
+  .RouteContent h3::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: #6E00FF;
+    bottom: -9px;
+    left: 0;
+    transform: scaleX(0);
+    transform-origin: left center;
+    transition: transform 0.3s ease-in-out;
+    
+  }
+   .RouteContent h3.selected::before {
+    transform: scaleX(1);
+  }
+  .RouteContent h3.selected {
+    color: #000; 
+  }
+}
+@media screen and (max-width: 892px) {
+  .Product_Content {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .Card_Product {
+    height: 550px;
+  }
+  .Card_Product_ImgContainer {
+    height: 380px;
+  }
+}
+
+@media screen and (max-width: 734px) {
+  .Product_Content {
+    grid-template-columns: repeat(3, 8fr);
+  }
+
+  .Card_Product_ImgContainer {
+    height: 350px;
+  }
+}
+@media screen and (max-width: 731px) {
+  .Product_Content {
+    grid-template-columns: repeat(2, 8fr);
+  }
+  .Card_Product {
+    height: 550px;
+  }
+  .Card_Product_ImgContainer {
+    height: 390px;
+  }
+
+}
+
+@media screen and (max-width: 544px) {
+  .Product_Content {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .Card_Product {
+    height: 450px;
+    width: 100%;
+  }
+  .Card_Product_ImgContainer {
+    height: 280px;
+  }
+  .LinksContent h3 {
+    font-size: 25px;
+  }
+  .LinksContent :nth-child(2){
+    font-size: 25px;
+    top: 2px;
+  }
+}
+@media screen and (max-width: 488px) {
+  .Product_Content {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .Card_Product {
+    height: 450px;
+    width: 100%;
+  }
+  .Card_Product_ImgContainer {
+    height: 250px;
+  }
+}
+@media screen and (max-width: 455px) {
+  .Card_Product {
+    height: 500px;
+    width: 90%;
+    margin: auto;
+  }
+  .Card_Product_ImgContainer {
+    height: 350px;
+  }
+  .price {
+    font-size: 16px;
+  }
+  .previousprice {
+    font-size: 10px;
+  }
+  .Product_Content {
+    grid-template-columns: repeat(1, 9fr);
+  }
+  .RouteContent h3{
+    font-size: 14px;
+  }
+  .LinksReklam{
+    display: none;
+  }
+
+  KeyboardArrowRightIcon {
+    display: none;
+  }
+}
+@media screen and (max-width: 370px) {
+  .Card_Product {
+    height: 500px;
+    width: 90%;
+    margin: auto;
+  }
+  .Card_Product_ImgContainer {
+    height: 350px;
+  }
+  .price {
+    font-size: 16px;
+  }
+  .previousprice {
+    font-size: 10px;
+  }
+  .Product_Content {
+    grid-template-columns: repeat(1, 9fr);
+  }
+  .description {
+    font-size: 16px;
+  }
+
+  mark {
+    font-size: 10px;
+  }
+}

@@ -1,0 +1,320 @@
+.Navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+  padding: 0 1%;
+  gap: 2vw;
+}
+
+*{
+  outline: none;
+}
+
+.CatalogBurgerMenu {
+  display: none;
+}
+.NavLogo {
+  width: 19%;
+}
+
+.NavLogo img {
+  object-fit: contain;
+}
+
+.NavCatalog {
+  width: 14%;
+  height: auto;
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+.catalog-icon-rotated {
+  transform: rotate(-180deg);
+  transition: .5s all linear;
+}
+
+.NavCatalog button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  border-radius: 5px;
+  padding: 0px 20px;
+  cursor: pointer;
+  color: #33c;
+  background-color: #eaeaf9;
+  font-size: 15px;
+  font-weight: 600;
+  transition: 0.1s linear all;
+}
+.NavCatalog button:hover {
+  background-color: #ccccf7;
+}
+.yana{
+  color:#6a6a6abd;
+  font-weight: 400;
+  font-family: 'Inter', sans-serif;
+  transition: .2s all linear;
+}
+.yana:hover{
+  color: #000;
+}
+
+.NavSearch {
+  width: 40%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid #e8e6e6;
+  border-radius: 8px;
+}
+
+.NavSearch input {
+  width: 87%;
+  padding: 9px 10px 9px 12px;
+  font-size: 16px;
+  border: none;
+}
+.CatigoryNav {
+  display: flex;
+  align-items:center;
+  justify-content: space-between;
+  padding: 0 1.5%;
+  gap: 1vw;
+}
+
+.NavSearch button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  width: 13%;
+  padding: 9px 0;
+  border: 1px solid #e8e6e6;
+}
+.NavSearch .searchTwooIcon {
+  display: none;
+}
+
+.NavBtn {
+  width: 25%;
+  display: flex;
+  justify-content: space-between;
+  align-items:center;
+  gap: 1.4vw;
+}
+
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root.Mui-expanded {
+  margin: 0;
+}
+.NavBtn button {
+  padding: 2px 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border-radius: 5px;
+  border: none;
+  background-color: #fff;
+  gap: 0.5vw;
+}
+.NavBtn button:hover {
+  background-color: #e6e6e6;
+}
+
+.NavBtn button p{
+  position: relative;
+  top: 2px;
+}
+
+
+@media screen and (max-width: 1485px) {
+  .Navigation {
+    gap: 1vw;
+  }
+  .NavBtn {
+    gap: 0.5vw;
+  }
+}
+@media screen and (max-width: 1395px) {
+  .Navigation {
+    gap: 0.5vw;
+  }
+  .NavBtn {
+    gap: 0.1vw;
+  }
+}
+@media screen and (max-width: 1247px) {
+  .Navigation {
+    gap: 3vw;
+  }
+  .NavBtn {
+    width: 13%;
+  }
+
+  .NavBtn button p {
+    display: none;
+  }
+
+  .NavSearch {
+    width: 60%;
+  }
+  .NavLogo {
+    width: 25%;
+  }
+}
+
+@media screen and (max-width: 988px) {
+  .NavCatalog {
+    display: none;
+  }
+  .CatalogBurgerMenu {
+    display: block;
+    width: 3%;
+  }
+
+  .CatalogBurgerMenu button {
+    margin-top: 7px;
+    margin-right: 5px;
+  }
+  .Navigation {
+    height: 150px;
+    align-items: self-start;
+    padding: 2% 1%;
+    justify-content: space-between;
+  }
+  .NavSearch {
+    position: absolute;
+    top: 120px;
+    width: 96%;
+    height: 50px;
+    background: #f1f1f2;
+    margin: 0 -2%;
+  }
+
+  .NavSearch button {
+    display: none;
+  }
+
+  .NavSearch input {
+    width: 98%;
+    background: #f1f1f2;
+  }
+  .NavLogo {
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  .NavLogo img {
+    width: 80%;
+    padding-top: 10px;
+  }
+
+  .NavBtn {
+    width: 30%;
+    justify-content: end;
+    align-items: center;
+  }
+  .NavBtn button {
+    align-items: center;
+  }
+  /* .NavSearch {
+display: block;
+} */
+
+  .NavSearch .searchTwooIcon {
+    display: flex;
+  }
+}
+
+@media screen and (max-width: 689px) {
+  .NavLogo {
+    width: 70%;
+    justify-content: flex-start;
+    margin-left: 25px;
+  }
+  .NavLogo img {
+    width: 70%;
+  }
+  .NavSearch {
+    height: 40px;
+  }
+
+  .Navigation {
+    height: 130px;
+  }
+}
+@media screen and (max-width: 468px) {
+  .NavLogo img {
+    width: 70%;
+    margin-top: 5px;
+  }
+  .CatalogBurgerMenu {
+    display: block;
+    width: 5%;
+  }
+  .CatalogBurgerMenu button {
+    padding: 20px 0;
+  }
+}
+@media screen and (max-width:404px) {
+  .NavLogo img {
+    display: none;
+  }
+}
+@media screen and (max-width: 380px) {
+  .NavLogo img {
+    width: 70%;
+    margin-top: 10px;
+  }
+}
+@media screen and (max-width: 366px) {
+  .NavLogo img {
+    width: 60%;
+    margin-top: 10px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .NavSearch {
+    height: 40px;
+  }
+
+  .Navigation {
+    height: 120px;
+  }
+
+  .NavSearch input {
+    width: 94%;
+    background: #f1f1f2;
+    font-size: 13px;
+  }
+
+  .css-a1t744-MuiSvgIcon-root{
+    font-size: 18px;
+  }
+  
+}
+
+@media screen and (max-width:1554px) {
+  .CatigoryNav :nth-child(11){
+    display: none;
+  }
+}
+@media screen and (max-width:1413px) {
+  .CatigoryNav :nth-child(10){
+    display: none;
+  }
+}
+@media screen and (max-width:1197px) {
+  .CatigoryNav :nth-child(9){
+    display: none;
+  }
+}
+@media screen and (max-width:989px) {
+  .CatigoryNav {
+    display: none;
+  }
+}
+

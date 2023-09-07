@@ -1,0 +1,82 @@
+.ToggleButtonGroup .ToggleButton {
+  display: flex;
+  justify-content: space-between;
+  border: none;
+}
+.Catalog {
+  position: absolute;
+  width: 100%;
+  padding: 1% 0% 2% 0%;
+  top: 115px;
+  background-color: #ffff;
+  z-index: 101;
+  left: 0;
+}
+
+.ToggleButtonGroup .ToggleButton:nth-child(1):hover {
+  background: none;
+}
+.ToggleButtonGroup .ToggleButton li {
+  display: flex;
+  justify-content: flex-start;
+  gap: 0.7vw;
+}
+.ToggleButtonGroup .ToggleButton li{
+  display: flex;
+  align-items:center;
+}
+
+.ToggleButtonGroup .ToggleButton:hover p {
+  color: #9541ff;
+}
+.ToggleButtonGroup .ToggleButton p {
+  text-transform: capitalize;
+}
+
+.ToggleButtonGroup {
+  width: 25%;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  border-right: 1px solid #e4e4e5;
+}
+.Catalog .exitBTN {
+  display: none;
+  width: auto;
+}
+
+.ToggleButton:hover {
+  background-color: #f1f1f2;
+}
+@media screen and (max-width: 989px) {
+  .Catalog {
+    width: 100%;
+    position: relative;
+    padding: 0;
+    top: 0px;
+    background-color: #ffff;
+    z-index: 101;
+    border:none;
+  }
+  .Catalog .exitBTN {
+    display: block;
+  }
+
+  .ToggleButtonGroup .ToggleButton{
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    border-left: none;
+    border-right: none;
+  }
+
+  .ToggleButtonGroup {
+    width: 100%;
+    border:none,
+  }
+
+  .css-15v22id-MuiAccordionDetails-root{
+    padding: 0;
+  }
+
+
+}

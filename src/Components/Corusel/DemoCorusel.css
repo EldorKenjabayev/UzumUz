@@ -1,0 +1,22 @@
+.image-gallery {
+  width: 100%;
+  height: auto;
+  padding-top: 3vh;
+}
+
+.image-gallery-play-button {
+  display: none;
+}
+
+.image-gallery-left-nav .image-gallery-svg,
+.image-gallery-right-nav .image-gallery-svg {
+  width: 25px;
+  padding: 0px 10px;
+}
+
+@media  screen and (max-width:988px){
+  .image-gallery{
+    width: 90%;
+    margin: 0 auto;
+  }
+}

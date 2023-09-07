@@ -1,0 +1,279 @@
+.btndelete {
+  color: #757575;
+}
+.imgProductBasket{
+  width: 20%;
+}
+.counterMx{
+  width: 130px;
+}
+
+
+.basketImg{
+  align-items:center;
+  position: relative;
+}
+
+.Btnpay1 {
+  display: flex;
+}
+.btndelete:hover {
+  color: #000000;
+}
+.totalAmount {
+  width: 28%;
+  border: 2px solid hsla(220, 4%, 48%, 0.2);
+  border-radius: 10px;
+  padding: 1%;
+  position: sticky;
+  top: 0.75rem;
+  z-index: 9;
+  height: 450px;
+}
+.basket {
+  display: flex;
+  flex-shrink: 0;
+  gap: 1.5vw;
+  position: relative;
+}
+
+
+.imgLogoCircule {
+  top: -40px;
+}
+.card-basket {
+  width: 68%;
+}
+.counterPrice {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.BtnCardempty{
+  font-size:20px ;
+  padding: 12px 25px;
+}
+.TitleBasket{
+  font-size: 28px;
+}
+.pochta {
+  justify-content: space-between;
+  border-bottom: 1.5px solid hsla(220, 4%, 48%, 0.2);
+  display: flex;
+  align-items: center;
+}
+.Btnpay {
+  width: 100%;
+  box-shadow: 0 -1px 3px 0 rgba(0, 0, 0, 0.1), 0 -1px 2px 0 rgba(0, 0, 0, 0.2);
+  display: none;
+  margin-left: -17%;
+  gap: 65%;
+  padding: 5px 18%;
+  align-items: center;
+  position: fixed;
+  bottom: 0;
+  z-index: 20000;
+  background: #fff;
+}
+
+@media screen and (max-width: 1128px) {
+  .totalAmount {
+    height: 500px;
+  }
+}
+
+@media screen and (max-width: 1247px) {
+  .Btnpay {
+    display: flex;
+    gap: 60%;
+  }
+  .basket {
+    flex-direction: column;
+    width: 100%;
+  }
+  .Btnpay1 {
+    display: none;
+  }
+  .basketImg{
+    align-items:flex-start;
+  }
+
+  .totalAmount {
+    width: 99%;
+    height: auto;
+    margin: auto;
+  }
+  .pochta {
+    justify-content: flex-start;
+  }
+  .imgLogoCircule {
+    top: 0px;
+  }
+  .card-basket {
+    width: 97%;
+    margin: auto;
+    position: relative;
+  }
+}
+@media screen and (max-width: 872px) {
+  .Btnpay {
+    gap: 55%;
+  }
+  .imgProductBasket{
+    width: 28%;
+    position: relative;
+    top: 15px;
+  }
+  .counterPrice {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2.5vh;
+  }
+  .counterMx {
+    position: absolute;
+    bottom: 10%;
+   
+  }
+
+  .btndelete {
+    position: absolute;
+    right: 4%;
+    bottom: 4%;
+  }
+  .description {
+    width: 100%;
+  }
+  .count {
+    position: relative;
+    left: 80%;
+    top: -50px;
+  }
+}
+@media screen and (max-width: 747px) {
+  .count {
+    left: 72%;
+  }
+  .TitleBasketEmptyH1{
+    font-size: 25px;
+  }
+  .TitleBasketEmptyH3{
+    font-size: 15px;
+  }
+  .BtnCardempty{
+    font-size:15px ;
+    padding: 12px 20px;
+  }
+}
+@media screen and (max-width: 685px) {
+  .Btnpay {
+    gap: 50%;
+    
+  }
+  .count {
+    left: 69%;
+  }
+  .counterMx {
+    left: 2%;
+  }
+}
+
+@media screen and (max-width: 615px){
+  .count {
+    left: 65%;
+  }
+}
+@media screen and (max-width: 570px){
+  .count {
+    left: 63%;
+  }
+  .counterMx{
+    width: 95px;
+  }
+  .Counter{
+    width: 35px;
+  }
+}
+@media screen and (max-width: 504px){
+  .count {
+    left: 58%;
+  }
+}
+@media screen and (max-width: 470px){
+  .count {
+    left: 55%;
+  }
+}
+@media screen and (max-width: 442px){
+  .count {
+    left: 52%;
+  }
+}
+@media screen and (max-width: 400px){
+  .count {
+    left: 48%;
+  }
+  .BtnCardempty{
+    font-size:12px ;
+    padding: 12px 20px;
+  }
+}
+@media screen and (max-width: 380px){
+  .count {
+    left: 44%;
+  }
+}
+@media screen and (max-width: 360px){
+  .count {
+    left: 44%;
+  }
+}
+@media screen and (max-width: 340px){
+  .count {
+    left: 30%;
+  }
+}
+@media screen and (max-width: 599px) {
+  .Btnpay {
+    gap: 43%;
+  }
+  .Btnpay Button {
+    width: 22%;
+  }
+  .TitleBasket{
+    font-size: 18px;
+  }
+}
+@media screen and (max-width: 495px) {
+  .Btnpay {
+    gap: 30%;
+  }
+  .Btnpay Button {
+    width: 29%;
+  }
+}
+@media screen and (max-width: 412px) {
+  .Btnpay {
+    gap: 30%;
+    font-size: 12px;
+  }
+  .imgProductBasket{
+    width: 30%;
+  }
+  .Btnpay Button {
+    width: 27%;
+    font-size: 8px;
+  }
+}
+@media screen and (max-width: 359px) {
+  .Btnpay {
+    gap: 25%;
+    font-size: 12px;
+  }
+  .imgProductBasket{
+    width: 42%;
+  }
+  .Btnpay Button {
+    width: 30%;
+    font-size: 8px;
+  }
+}

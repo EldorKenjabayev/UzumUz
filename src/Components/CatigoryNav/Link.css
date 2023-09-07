@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600&display=swap');
+.styled-link {
+    position: relative;
+    text-decoration: none;
+    padding: 10px 5px;
+    margin-bottom: 25px;
+    margin-left: 0px;
+    transition: color 0.3s ease-in-out;
+    color:#6a6a6abd;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+  }
+  
+  .styled-link::before {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 100%;
+    height: 1.6px;
+    font-weight:600 ;
+    background-color: #333;
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .styled-link:hover {
+    color: #000;
+  }
+  
+  .styled-link:hover::before {
+    transform: scaleX(1);
+  }
+  .active-link,
+  .styled-link:visited {
+    color: #000; /* Цвет для активной и посещенной ссылки */
+  }
+  
+
+  

@@ -1,0 +1,2510 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Eldor",
+      "username": "Eldor01_14",
+      "password": "eldor200314",
+      "email": "eldorkenjabayev13@gmail.com"
+    },
+    {
+      "name": "Edo",
+      "username": "Edo",
+      "password": "Edllddd233@",
+      "email": "eldorkenjabayev13@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Twww",
+      "username": "eldorkenjabayev",
+      "password": "Eldor2003@",
+      "email": "eldorkenjabayev13@gmail.com",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "catigoris": "Maishiytexnika",
+      "description": "Elektr choynak, tefal, qaynoq suv uchun elektr choynak,",
+      "info": "Zanglamaydigan po'latdan yasalgan korpusli klassik elektr choynak. Yashirin isitish elementi bilan jihozlangan ushbu model 2,2 litrgacha suvni tezda qaynatish imkonini beradi. Kuchliligi, ishonchliligi va ko'rinadigan ko'rinishi tufayli u uyda yoki mamlakatda foydalanish uchun javob beradi. Qo‘lingizning kaftida sirg‘alib ketmaydigan qulay tutqich choynakni ko‘tarish, uni bir joydan ikkinchi joyga ko‘chirish va kerak bo‘lganda egishni osonlashtiradi. Nopokliklar yo'q Sintetik filtr ohakni ushlab turadi va uni quyish paytida idishga tushishiga yo'l qo'ymaydi. Sizning choyingiz tabiiy ta'mga ega bo'ladi, begona aralashmalarsiz. Xavfsizlik Avtomatik o'chirish tizimi qaynayotganda va idishdagi suv etishmasligi tufayli qizib ketganda faollashadi.",
+      "img": [
+        "https://images.uzum.uz/cge736vhgiov1qifavv0/original.jpg",
+        "https://images.uzum.uz/cge7377g49devoabf6pg/original.jpg",
+        "https://images.uzum.uz/cge736vhgiov1qifavv0/original.jpg",
+        "https://images.uzum.uz/cge737nhj8j9g69ap67g/original.jpg",
+        "https://images.uzum.uz/cge738vhj8j9g69ap680/original.jpg"
+      ],
+      "stars": {
+        "star": 4,
+        "countstarts": 21
+      },
+      "vendor": "Домашний Очаг",
+      "installmentplan": "8 400 so'm/oyiga",
+      "previousprice": 120000,
+      "price": 70000,
+      "things": 1,
+      "count": 1
+    },
+    {
+      "id": 2,
+      "catigoris": "Maishiytexnika",
+      "description": "Tikuv mashinasi JANOME HomeDecor 2077",
+      "info": "Janome HomeDecor 2077 elektromexanik tikuv mashinasi tikuvchilikni o'rganmoqchi bo'lganlar uchun mos keladi. Tikuv funktsiyalarining optimal to'plami tufayli siz tezda qulay bo'lishingiz va yaratishni boshlashingiz mumkin. Olinadigan yeng paneli tufayli siz tor mahsulotlarni qayta ishlashingiz mumkin: yenglarning manjetlari, oyoqlarning pastki qismi, bolalar buyumlari. Janome HomeDecor 2077 ish, trikotaj, overlok tikuvlari, shuningdek, yarim avtomatik rejimda bajariladigan tugma teshigi kabi asosiy bo'yin operatsiyalariga ega.",
+      "img": [
+        "https://images.uzum.uz/cc8egs6ha881nt1ejt40/original.jpg",
+        "https://images.uzum.uz/cc8egs6ha881nt1ejt60/original.jpg",
+        "https://images.uzum.uz/cc8egs6ha881nt1ejt50/original.jpg",
+        "https://images.uzum.uz/cc8egs6ha881nt1ejt3g/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 50
+      },
+      "vendor": "Домашний Очаг",
+      "installmentplan": "214 400 so'm/oyiga",
+      "previousprice": 2050000,
+      "price": 1759000,
+      "things": 49,
+      "count": 1
+    },
+    {
+      "id": 3,
+      "catigoris": "Maishiytexnika",
+      "description": "Muzlatgich TCL ECO Invertor Total No Frost, 486 litr",
+      "info": "AAT (avtomatik anion chiqarish texnologiyasi)Korpusning ichki qismiga maxsus mineral material qo'shilib, muzlatgichga quyidagi afzalliklarni beradi: Bakteriostatik, tozalovchi, antioksidant. Aylanadigan havo chiqishi ichki havo oqimining bir tekis uzatilishiga ko'proq yordam beradi va sovutish tezligini oshiradi. Katta hajmi sizning oilangizning barcha talablariga javob beradi. Uch o'lchovli havo sovutish oziq-ovqat mahsulotlarini uzoqroq saqlashga imkon beradi. Asl ta'mi, ajoyib shakli va yorqin rangini saqlaydi. Suv dispenseri 2-8 ℃ haroratdagi sovuq suv bilan ta'minlaydi. Muzlatish tezligini oshiring va haroratni tezda pasaytiring. Elektron boshqaruv, haroratni sozlash. Sovutgich va muzlatgich haroratini bir-biridan mustaqil ravishda sozlang.",
+      "img": [
+        "https://images.uzum.uz/cdjpbmf0tgqvlm59e010/original.jpg",
+        "https://images.uzum.uz/chich1f5d7kom1tfthqg/original.jpg",
+        "https://images.uzum.uz/chich23ltlh4bk4johpg/original.jpg",
+        "https://images.uzum.uz/cdiut7jb3ho5lmurh23g/original.jpg",
+        "https://images.uzum.uz/cdjpbgbb3ho5lmurid40/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 50
+      },
+      "vendor": "Домашний Очаг",
+      "installmentplan": "350 400 so'm/oyiga",
+      "previousprice": 6050000,
+      "price": 5759000,
+      "things": 5,
+      "count": 1
+    },
+    {
+      "id": 4,
+      "catigoris": "Maishiytexnika",
+      "description": "Avtomat kir yuvish va quritish mashinasi TCL Invertor Combo, 10 kg gacha",
+      "info": "To'g'ridan-to'g'ri qo'zg'atuvchi vosita kamarsiz ishlaydi va kuchli vosita to'g'ridan-to'g'ri barabanga ulanadi. Samarali va barqaror dizayn shovqin va tebranishlarni sezilarli darajada kamaytiradi. Shu bilan birga, bu sizga energiya va suv sarfini kamaytirish imkonini beradi. Barabanning pastki qismida gigienik bug 'hosil bo'ladi, shuning uchun barcha kirlar bug' muhitida bo'ladi. Bu changlar, gulchanglar, hayvonlarning tuklari kabi allergiya keltirib chiqaradigan bakteriyalarni yo'q qiladi. Kiyimlaringiz yaxshilab va gigienik tarzda tozalanadi. Avtomat kir yuvish va quritish mashinasi TCL Invertor Combo, 10 kg gacha fotosurat",
+      "img": [
+        "https://images.uzum.uz/cf9lv28v1htd23alju7g/original.jpg",
+        "https://images.uzum.uz/cf9lvigl08k0o9qihc60/original.jpg",
+        "https://images.uzum.uz/cf9lvrgv1htd23aljud0/original.jpg",
+        "https://images.uzum.uz/cf9lvu0l08k0o9qihc6g/original.jpg",
+        "https://images.uzum.uz/cf9lvigl08k0o9qihc60/original.jpg"
+      ],
+      "stars": {
+        "star": 4.5,
+        "countstarts": 50
+      },
+      "vendor": "Домашний Очаг",
+      "installmentplan": "858 800 so'm/oyiga",
+      "previousprice": 9760000,
+      "price": 7155000,
+      "things": 15,
+      "count": 1
+    },
+    {
+      "id": 5,
+      "catigoris": "Maishiytexnika",
+      "description": "Gaz plitasi GEFEST 6300-02 0347",
+      "info": "Ishlab chiqaruvchi Gefest x`Plitalar turi Gaz Qoplama Emal Idishlarni saqlash uchun quti Mavjud Boshqarish turi Mexanik Pishirish yuzasi Pishirish sirt turi Gaz Panjara materiali Chugun Konforkalar soni 4 Pech shkafi Javonli pech turi Gaz Pechning hajmi 52 Litr Pechni yoritish Mavjud Gril Mavjud",
+      "img": [
+        "https://images.uzum.uz/ch7o9jt01ighkhg8t960/original.jpg",
+        "https://images.uzum.uz/ch7o9jt01ighkhg8t960/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 50
+      },
+      "vendor": "Домашний Очаг",
+      "installmentplan": "550 400 so'm/oyiga",
+      "previousprice": 4900000,
+      "price": 4600000,
+      "things": 49,
+      "count": 1
+    },
+    {
+      "id": 6,
+      "catigoris": "Maishiytexnika",
+      "description": "Gaz-elektr Plita Biryusa N60GE07W",
+      "info": "Koson rangi: oq Gorelkalar soni: 3 (gaz) + 1 (elektr) Avtomatik elektr yoqish Mexanik taymer Metall panjara Gazni boshqarish O‘lchamlari (sm): 85x60x60",
+      "img": [
+        "https://images.uzum.uz/cd98v4v0tgqvlm58ulm0/original.jpg",
+        "https://images.uzum.uz/cd98v4v0tgqvlm58ulm0/original.jpg"
+      ],
+      "stars": {
+        "star": 4,
+        "countstarts": 3
+      },
+      "vendor": "Домашний Очаг",
+      "installmentplan": "403 400 so'm/oyiga",
+      "previousprice": 3865000,
+      "price": 3365000,
+      "things": 4,
+      "count": 1
+    },
+    {
+      "id": 7,
+      "catigoris": "Kiyim",
+      "description": "O'g'il bolalar uchun ko'ylak",
+      "info": "O'g'il bolalar uchun oq ko'ylak maktab uchun offseasonda kiyish uchun juda yaxshi. Mahsulot bolalar salomatligi uchun zararsiz tabiiy oq materialdan tayyorlangan bo'lib, bu joriy mavsumning haqiqiy tendentsiyasidir. O'g'il bolalar uchun ko'ylak - bu maktab va o'qish uchun qulay va moda kiyim bo'lib, u har kuni kiyish uchun qulaylik va qulaylikni ta'minlaydi. Bolalar ko'ylagi tabiiy paxtadan tayyorlangan bo'lib, terining qizarishiga olib kelmaydi va kiyim ostida namlik to'planishiga yo'l qo'ymaydi. O'g'il bolalar uchun oq ko'ylak klassik uslubdagi kostyum bilan, shuningdek, jinsi shimlar yoki kombinezonlar bilan yaxshi ketadi. O'g'il bola uchun oq ko'ylak - g'amxo'r ota-onalar uchun xudo! Oq bolalar ko'ylagi chaqaloqni muhim ertak, kontsert yoki muhim musobaqaga tezda tayyorlamoqchi bo'lgan onalar uchun qutqaruvchiga aylanadi. Bo'yinbog' yoki galstuk qo'shing - va bolaning ko'ylagi o'g'il bola uchun yangi tarzda porlaydi. Bolalarning oq uzun yengli ko'ylagi juda mos keladi. Shuning uchun, o'g'il bolalar uchun oq rangli bolalar ko'ylagi harakat erkinligini ta'minlaydi, terini ishqalamaydi va qazmaydi. O'g'il bolalar uchun oq bolalar ko'ylagi kundalik kiyim uchun ajoyib tanlov bo'ladi. 92-104 o'g'il bolalar uchun ko'ylagi yuvishga mukammal darajada toqat qiladi, dazmollash oson va shaklini yaxshi saqlaydi. Shuning uchun, tez-tez yuvilgandan keyin ham, oq paxta bolalar ko'ylagi o'zining oqligini va chiroyli ko'rinishini saqlab qoladi. O'g'il bolalar uchun ko'ylagi shkafning asosiy elementiga aylanadi",
+      "img": [
+        "https://images.uzum.uz/cjb0mq4vutv1p29kv77g/t_product_540_high.jpg#1691839204677",
+        "https://images.uzum.uz/cjb0mpsvutv1p29kv770/original.jpg",
+        "https://images.uzum.uz/cjbqkrsvutv7iataqgj0/original.jpg",
+        "https://images.uzum.uz/cjb0mqcjvf2nv3nn67v0/original.jpg"
+      ],
+      "stars": {
+        "star": 4.7,
+        "countstarts": 10
+      },
+      "sizez": [
+        {
+          "S": 20
+        },
+        {
+          "M": 2
+        },
+        {
+          "L": 22
+        },
+        {
+          "XL": 5
+        }
+      ],
+      "vendor": "trendyol store",
+      "installmentplan": "84000 so'm/oyiga",
+      "previousprice": 105000,
+      "price": 70000,
+      "things": 500,
+      "count": 1
+    },
+    {
+      "id": 8,
+      "catigoris": "Kiyim",
+      "description": "Ayollar ko'ylagi Trendyol",
+      "info": "Trendyol-turk kiyim-kechak va aksessuarlarining eng mashhur brendlaridan biri. Brend butun oila uchun modellarning katta assortimenti (ayollar, erkaklar va bolalar to'plamlari), sport va Sasualdan Ultrafashiongacha bo'lgan turli uslub va yo'nalishlar bilan ajralib turadi. Trendyol-bu arzon narxlarda trend modellari.",
+      "img": [
+        "https://images.uzum.uz/ci4l4rlenntd8rfbepr0/original.jpg",
+        "https://images.uzum.uz/ci4l4rt40v9pplt3qh80/original.jpg",
+        "https://images.uzum.uz/ci4l4stenntd8rfbeprg/original.jpg",
+        "https://images.uzum.uz/ci4l4tt40v9pplt3qh8g/original.jpg",
+        "https://images.uzum.uz/ci4pbplenntd8rfbfobg/original.jpg",
+        " https://images.uzum.uz/ci4l4u5enntd8rfbeps0/original.jpg"
+      ],
+      "stars": {
+        "star": 4.7,
+        "countstarts": 10
+      },
+      "sizez": [
+        {
+          "S": 2
+        },
+        {
+          "M": 42
+        },
+        {
+          "L": 2
+        },
+        {
+          "XL": 54
+        }
+      ],
+      "vendor": "trendyol store",
+      "installmentplan": "29 400 so'm/oyiga",
+      "previousprice": 400000,
+      "price": 245000,
+      "things": 13,
+      "count": 1
+    },
+    {
+      "id": 9,
+      "catigoris": "Kiyim",
+      "description": "Erkaklar uchun futbolka Playowo",
+      "info": "Erkaklar futbolkasi. Naqshsiz oddiy futbolka. 100% paxtadan tayyorlangan. Yumshoq va yoqimli mato. To'g'ri mos. Asosiy futbolka. Klassik yumaloq bo'yinbog'li futbolka sizsiz o'tib bo'lmaydigan asosiy qismlardan biridir. Erkaklar uchun futbolkalar erkak uchun eng yaxshi sovg'adir. Faqat kundalik kiyim uchun emas, balki sport uchun ham mos keladi. Erkaklar uchun oddiy futbolka juda ko'p qirrali, aşınmaya bardoshli. Katta oʻlchamli ayollar futbolkasi yoki bir oʻlcham katta qilib kiyish mumkin. Agar siz uni 1-2 o'lchamga kattaroq xarid qilsangiz, u katta o'lchamli futbolka sifatida kiyiladi, har qanday holatda ham u har kuni, uyda, sport yoki fitnes uchun yoki shunchaki futbolka uchun ajoyib asosiy futbolkadir. - uxlash uchun ko'ylak. Erkaklar uchun katta o'lchamli futbolkalar ko'pincha o'smirlar uchun buyurtma qilinadi. Playowo mahsulotlari o'zimizda ishlab chiqilgan va ishlab chiqarilgan. Futbolka quyidagi o'lchamlarda taqdim etilgan: M - 48, L - 50, XL - 52, 2XL -54, 3 XL - 56.",
+      "img": [
+        "https://images.uzum.uz/cg0unsvhgiov1qidhc10/original.jpg",
+        "https://images.uzum.uz/cg0unsvhj8j9g698vfvg/original.jpg",
+        "https://images.uzum.uz/cg0tfjfhj8j9g698v6cg/original.jpg",
+        "https://images.uzum.uz/cg0tf5nhj8j9g698v680/original.jpg",
+        "https://images.uzum.uz/cg0tfdfhgiov1qidh16g/original.jpg",
+        "https://images.uzum.uz/cfti2bvg49devoa96gn0/original.jpg "
+      ],
+      "stars": {
+        "star": 4.7,
+        "countstarts": 10
+      },
+      "sizez": [
+        {
+          "S": 3
+        },
+        {
+          "M": 2
+        },
+        {
+          "L": 20
+        },
+        {
+          "XL": 7
+        }
+      ],
+      "vendor": "trendyol store",
+      "installmentplan": "4 320 so'm/oyiga",
+      "previousprice": 31000,
+      "price": 70000,
+      "things": 500,
+      "count": 1
+    },
+    {
+      "id": 10,
+      "catigoris": "Kiyim",
+      "description": "Erkaklar ko'ylagi yol'-yo'l Trendyol",
+      "info": "Zamonaviy, rang-barang erkaklar kiyimlari zamonaviy va mukammal ko'rinishni xohlaydiganlar uchun. Bu ko'ylak erkaklarimizga 100% sifat hamda qulaylikni kafolatlaydi. Mahsulotlarimiz Turkiyada ishlab chiqarilgan, Ko'ylak - bu erkaklar kiyimi bo'lib, u zamonaviy bo'lishi bilan birga mavsumiy qiyofa yaratishda ham qo'l keladi va siz uni istalgan kiyim bilan kiyishingiz yoki rang kombinatsiyasiga qarab o'z uslubingizni yaratishingiz mumkin. Turli xil dizayndagi kiyimlarning turli xil ranglari mavjud.",
+      "img": [
+        "https://images.uzum.uz/ci4pkut6sfhndlbo8v0g/original.jpg",
+        "https://images.uzum.uz/ci4pl15enntd8rfbfql0/original.jpg",
+        "https://images.uzum.uz/ci4pl0rltlh4bk4lm4b0/original.jpg ",
+        "https://images.uzum.uz/ci4pl1t40v9pplt3rhd0/original.jpg",
+        "https://images.uzum.uz/ci4pl1tenntd8rfbfqlg/original.jpg"
+      ],
+      "stars": {
+        "star": 4.7,
+        "countstarts": 10
+      },
+      "sizez": [
+        {
+          "S": 3
+        },
+        {
+          "M": 6
+        },
+        {
+          "L": 32
+        },
+        {
+          "XL": 7
+        }
+      ],
+      "vendor": "trendyol store",
+      "installmentplan": "35 320 so'm/oyiga",
+      "previousprice": 480000,
+      "price": 295000,
+      "things": 20,
+      "count": 1
+    },
+    {
+      "id": 11,
+      "catigoris": "Kiyim",
+      "description": "O'g'il bolalar uchun ko'ylak",
+      "info": "O'g'il bolalar uchun oq ko'ylak maktab uchun offseasonda kiyish uchun juda yaxshi. Mahsulot bolalar salomatligi uchun zararsiz tabiiy oq materialdan tayyorlangan bo'lib, bu joriy mavsumning haqiqiy tendentsiyasidir. O'g'il bolalar uchun ko'ylak - bu maktab va o'qish uchun qulay va moda kiyim bo'lib, u har kuni kiyish uchun qulaylik va qulaylikni ta'minlaydi. Bolalar ko'ylagi tabiiy paxtadan tayyorlangan bo'lib, terining qizarishiga olib kelmaydi va kiyim ostida namlik to'planishiga yo'l qo'ymaydi. O'g'il bolalar uchun oq ko'ylak klassik uslubdagi kostyum bilan, shuningdek, jinsi shimlar yoki kombinezonlar bilan yaxshi ketadi. O'g'il bola uchun oq ko'ylak - g'amxo'r ota-onalar uchun xudo! Oq bolalar ko'ylagi chaqaloqni muhim ertak, kontsert yoki muhim musobaqaga tezda tayyorlamoqchi bo'lgan onalar uchun qutqaruvchiga aylanadi. Bo'yinbog' yoki galstuk qo'shing - va bolaning ko'ylagi o'g'il bola uchun yangi tarzda porlaydi. Bolalarning oq uzun yengli ko'ylagi juda mos keladi. Shuning uchun, o'g'il bolalar uchun oq rangli bolalar ko'ylagi harakat erkinligini ta'minlaydi, terini ishqalamaydi va qazmaydi. O'g'il bolalar uchun oq bolalar ko'ylagi kundalik kiyim uchun ajoyib tanlov bo'ladi. 92-104 o'g'il bolalar uchun ko'ylagi yuvishga mukammal darajada toqat qiladi, dazmollash oson va shaklini yaxshi saqlaydi. Shuning uchun, tez-tez yuvilgandan keyin ham, oq paxta bolalar ko'ylagi o'zining oqligini va chiroyli ko'rinishini saqlab qoladi. O'g'il bolalar uchun ko'ylagi shkafning asosiy elementiga aylanadi",
+      "img": [
+        "https://images.uzum.uz/cjb0mq4vutv1p29kv77g/t_product_540_high.jpg#1691839204677",
+        "https://images.uzum.uz/cjb0mq4vutv1p29kv77g/original.jpg",
+        "https://images.uzum.uz/cjb0mq4jvf2nv3nn67u0/original.jpg",
+        "https://images.uzum.uz/cjb0mpsvutv1p29kv770/original.jpg",
+        "https://images.uzum.uz/cjbqkrsvutv7iataqgj0/original.jpg",
+        "https://images.uzum.uz/cjb0mqcjvf2nv3nn67v0/original.jpg"
+      ],
+      "stars": {
+        "star": 4.7,
+        "countstarts": 10
+      },
+      "sizez": [
+        {
+          "S": 30
+        },
+        {
+          "M": 5
+        },
+        {
+          "L": 6
+        },
+        {
+          "XL": 8
+        }
+      ],
+      "vendor": "trendyol store",
+      "installmentplan": "84000 so'm/oyiga",
+      "previousprice": 105000,
+      "price": 70000,
+      "things": 500,
+      "count": 1
+    },
+    {
+      "id": 12,
+      "catigoris": "Kiyim",
+      "description": "Ayollar ko'ylagi Trendyol",
+      "info": "Trendyol-turk kiyim-kechak va aksessuarlarining eng mashhur brendlaridan biri. Brend butun oila uchun modellarning katta assortimenti (ayollar, erkaklar va bolalar to'plamlari), sport va Sasualdan Ultrafashiongacha bo'lgan turli uslub va yo'nalishlar bilan ajralib turadi. Trendyol-bu arzon narxlarda trend modellari.",
+      "img": [
+        "https://images.uzum.uz/ci4l4rlenntd8rfbepr0/original.jpg",
+        "https://images.uzum.uz/ci4l4rt40v9pplt3qh80/original.jpg",
+        "https://images.uzum.uz/ci4l4stenntd8rfbeprg/original.jpg",
+        "https://images.uzum.uz/ci4l4tt40v9pplt3qh8g/original.jpg",
+        "https://images.uzum.uz/ci4pbplenntd8rfbfobg/original.jpg",
+        " https://images.uzum.uz/ci4l4u5enntd8rfbeps0/original.jpg"
+      ],
+      "stars": {
+        "star": 4.7,
+        "countstarts": 10
+      },
+      "sizez": [
+        {
+          "S": 10
+        },
+        {
+          "M": 32
+        },
+        {
+          "L": 5
+        },
+        {
+          "XL": 5
+        }
+      ],
+      "vendor": "trendyol store",
+      "installmentplan": "29 400 so'm/oyiga",
+      "previousprice": 400000,
+      "price": 245000,
+      "things": 13,
+      "count": 1
+    },
+    {
+      "id": 13,
+      "catigoris": "Kiyim",
+      "description": "Erkaklar uchun futbolka Playowo",
+      "info": "Erkaklar futbolkasi. Naqshsiz oddiy futbolka. 100% paxtadan tayyorlangan. Yumshoq va yoqimli mato. To'g'ri mos. Asosiy futbolka. Klassik yumaloq bo'yinbog'li futbolka sizsiz o'tib bo'lmaydigan asosiy qismlardan biridir. Erkaklar uchun futbolkalar erkak uchun eng yaxshi sovg'adir. Faqat kundalik kiyim uchun emas, balki sport uchun ham mos keladi. Erkaklar uchun oddiy futbolka juda ko'p qirrali, aşınmaya bardoshli. Katta oʻlchamli ayollar futbolkasi yoki bir oʻlcham katta qilib kiyish mumkin. Agar siz uni 1-2 o'lchamga kattaroq xarid qilsangiz, u katta o'lchamli futbolka sifatida kiyiladi, har qanday holatda ham u har kuni, uyda, sport yoki fitnes uchun yoki shunchaki futbolka uchun ajoyib asosiy futbolkadir. - uxlash uchun ko'ylak. Erkaklar uchun katta o'lchamli futbolkalar ko'pincha o'smirlar uchun buyurtma qilinadi. Playowo mahsulotlari o'zimizda ishlab chiqilgan va ishlab chiqarilgan. Futbolka quyidagi o'lchamlarda taqdim etilgan: M - 48, L - 50, XL - 52, 2XL -54, 3 XL - 56.",
+      "img": [
+        "https://images.uzum.uz/cg0unsvhgiov1qidhc10/original.jpg",
+        "https://images.uzum.uz/cg0unsvhj8j9g698vfvg/original.jpg",
+        "https://images.uzum.uz/cg0tfjfhj8j9g698v6cg/original.jpg",
+        "https://images.uzum.uz/cg0tf5nhj8j9g698v680/original.jpg",
+        "https://images.uzum.uz/cg0tfdfhgiov1qidh16g/original.jpg",
+        "https://images.uzum.uz/cfti2bvg49devoa96gn0/original.jpg "
+      ],
+      "stars": {
+        "star": 4.7,
+        "countstarts": 10
+      },
+      "sizez": [
+        {
+          "S": 20
+        },
+        {
+          "M": 2
+        },
+        {
+          "L": 22
+        },
+        {
+          "XL": 5
+        }
+      ],
+      "vendor": "trendyol store",
+      "installmentplan": "4 320 so'm/oyiga",
+      "previousprice": 31000,
+      "price": 70000,
+      "things": 500,
+      "count": 1
+    },
+    {
+      "id": 14,
+      "catigoris": "Kiyim",
+      "description": "O'g'il bolalar uchun ko'ylak",
+      "info": "O'g'il bolalar uchun oq ko'ylak maktab uchun offseasonda kiyish uchun juda yaxshi. Mahsulot bolalar salomatligi uchun zararsiz tabiiy oq materialdan tayyorlangan bo'lib, bu joriy mavsumning haqiqiy tendentsiyasidir. O'g'il bolalar uchun ko'ylak - bu maktab va o'qish uchun qulay va moda kiyim bo'lib, u har kuni kiyish uchun qulaylik va qulaylikni ta'minlaydi. Bolalar ko'ylagi tabiiy paxtadan tayyorlangan bo'lib, terining qizarishiga olib kelmaydi va kiyim ostida namlik to'planishiga yo'l qo'ymaydi. O'g'il bolalar uchun oq ko'ylak klassik uslubdagi kostyum bilan, shuningdek, jinsi shimlar yoki kombinezonlar bilan yaxshi ketadi. O'g'il bola uchun oq ko'ylak - g'amxo'r ota-onalar uchun xudo! Oq bolalar ko'ylagi chaqaloqni muhim ertak, kontsert yoki muhim musobaqaga tezda tayyorlamoqchi bo'lgan onalar uchun qutqaruvchiga aylanadi. Bo'yinbog' yoki galstuk qo'shing - va bolaning ko'ylagi o'g'il bola uchun yangi tarzda porlaydi. Bolalarning oq uzun yengli ko'ylagi juda mos keladi. Shuning uchun, o'g'il bolalar uchun oq rangli bolalar ko'ylagi harakat erkinligini ta'minlaydi, terini ishqalamaydi va qazmaydi. O'g'il bolalar uchun oq bolalar ko'ylagi kundalik kiyim uchun ajoyib tanlov bo'ladi. 92-104 o'g'il bolalar uchun ko'ylagi yuvishga mukammal darajada toqat qiladi, dazmollash oson va shaklini yaxshi saqlaydi. Shuning uchun, tez-tez yuvilgandan keyin ham, oq paxta bolalar ko'ylagi o'zining oqligini va chiroyli ko'rinishini saqlab qoladi. O'g'il bolalar uchun ko'ylagi shkafning asosiy elementiga aylanadi",
+      "img": [
+        "https://images.uzum.uz/cjb0mq4vutv1p29kv77g/t_product_540_high.jpg#1691839204677",
+        "https://images.uzum.uz/cjb0mq4vutv1p29kv77g/original.jpg",
+        "https://images.uzum.uz/cjb0mq4jvf2nv3nn67u0/original.jpg",
+        "https://images.uzum.uz/cjb0mpsvutv1p29kv770/original.jpg",
+        "https://images.uzum.uz/cjbqkrsvutv7iataqgj0/original.jpg",
+        "https://images.uzum.uz/cjb0mqcjvf2nv3nn67v0/original.jpg"
+      ],
+      "stars": {
+        "star": 4.7,
+        "countstarts": 10
+      },
+      "sizez": [
+        {
+          "S": 40
+        },
+        {
+          "M": 2
+        },
+        {
+          "L": 22
+        },
+        {
+          "XL": 5
+        }
+      ],
+      "vendor": "trendyol store",
+      "installmentplan": "84000 so'm/oyiga",
+      "previousprice": 105000,
+      "price": 70000,
+      "things": 500,
+      "count": 1
+    },
+    {
+      "id": 15,
+      "catigoris": "Kiyim",
+      "description": "Ayollar ko'ylagi Trendyol",
+      "info": "Trendyol-turk kiyim-kechak va aksessuarlarining eng mashhur brendlaridan biri. Brend butun oila uchun modellarning katta assortimenti (ayollar, erkaklar va bolalar to'plamlari), sport va Sasualdan Ultrafashiongacha bo'lgan turli uslub va yo'nalishlar bilan ajralib turadi. Trendyol-bu arzon narxlarda trend modellari.",
+      "img": [
+        "https://images.uzum.uz/ci4l4rlenntd8rfbepr0/original.jpg",
+        "https://images.uzum.uz/ci4l4rt40v9pplt3qh80/original.jpg",
+        "https://images.uzum.uz/ci4l4stenntd8rfbeprg/original.jpg",
+        "https://images.uzum.uz/ci4l4tt40v9pplt3qh8g/original.jpg",
+        "https://images.uzum.uz/ci4pbplenntd8rfbfobg/original.jpg",
+        " https://images.uzum.uz/ci4l4u5enntd8rfbeps0/original.jpg"
+      ],
+      "stars": {
+        "star": 4.7,
+        "countstarts": 10
+      },
+      "sizez": [
+        {
+          "S": 0
+        },
+        {
+          "M": 2
+        },
+        {
+          "L": 22
+        },
+        {
+          "XL": 5
+        }
+      ],
+      "vendor": "trendyol store",
+      "installmentplan": "29 400 so'm/oyiga",
+      "previousprice": 400000,
+      "price": 245000,
+      "things": 13,
+      "count": 1
+    },
+    {
+      "id": 16,
+      "catigoris": "Kiyim",
+      "description": "Erkaklar uchun futbolka Playowo",
+      "info": "Erkaklar futbolkasi. Naqshsiz oddiy futbolka. 100% paxtadan tayyorlangan. Yumshoq va yoqimli mato. To'g'ri mos. Asosiy futbolka. Klassik yumaloq bo'yinbog'li futbolka sizsiz o'tib bo'lmaydigan asosiy qismlardan biridir. Erkaklar uchun futbolkalar erkak uchun eng yaxshi sovg'adir. Faqat kundalik kiyim uchun emas, balki sport uchun ham mos keladi. Erkaklar uchun oddiy futbolka juda ko'p qirrali, aşınmaya bardoshli. Katta oʻlchamli ayollar futbolkasi yoki bir oʻlcham katta qilib kiyish mumkin. Agar siz uni 1-2 o'lchamga kattaroq xarid qilsangiz, u katta o'lchamli futbolka sifatida kiyiladi, har qanday holatda ham u har kuni, uyda, sport yoki fitnes uchun yoki shunchaki futbolka uchun ajoyib asosiy futbolkadir. - uxlash uchun ko'ylak. Erkaklar uchun katta o'lchamli futbolkalar ko'pincha o'smirlar uchun buyurtma qilinadi. Playowo mahsulotlari o'zimizda ishlab chiqilgan va ishlab chiqarilgan. Futbolka quyidagi o'lchamlarda taqdim etilgan: M - 48, L - 50, XL - 52, 2XL -54, 3 XL - 56.",
+      "img": [
+        "https://images.uzum.uz/cg0unsvhgiov1qidhc10/original.jpg",
+        "https://images.uzum.uz/cg0unsvhj8j9g698vfvg/original.jpg",
+        "https://images.uzum.uz/cg0tfjfhj8j9g698v6cg/original.jpg",
+        "https://images.uzum.uz/cg0tf5nhj8j9g698v680/original.jpg",
+        "https://images.uzum.uz/cg0tfdfhgiov1qidh16g/original.jpg",
+        "https://images.uzum.uz/cfti2bvg49devoa96gn0/original.jpg "
+      ],
+      "stars": {
+        "star": 4.7,
+        "countstarts": 10
+      },
+      "sizez": [
+        {
+          "S": 11
+        },
+        {
+          "M": 2
+        },
+        {
+          "L": 22
+        },
+        {
+          "XL": 5
+        }
+      ],
+      "vendor": "trendyol store",
+      "installmentplan": "4 320 so'm/oyiga",
+      "previousprice": 31000,
+      "price": 70000,
+      "things": 500,
+      "count": 1
+    },
+    {
+      "id": 17,
+      "catigoris": "Kiyim",
+      "description": "O'g'il bolalar uchun ko'ylak",
+      "info": "O'g'il bolalar uchun oq ko'ylak maktab uchun offseasonda kiyish uchun juda yaxshi. Mahsulot bolalar salomatligi uchun zararsiz tabiiy oq materialdan tayyorlangan bo'lib, bu joriy mavsumning haqiqiy tendentsiyasidir. O'g'il bolalar uchun ko'ylak - bu maktab va o'qish uchun qulay va moda kiyim bo'lib, u har kuni kiyish uchun qulaylik va qulaylikni ta'minlaydi. Bolalar ko'ylagi tabiiy paxtadan tayyorlangan bo'lib, terining qizarishiga olib kelmaydi va kiyim ostida namlik to'planishiga yo'l qo'ymaydi. O'g'il bolalar uchun oq ko'ylak klassik uslubdagi kostyum bilan, shuningdek, jinsi shimlar yoki kombinezonlar bilan yaxshi ketadi. O'g'il bola uchun oq ko'ylak - g'amxo'r ota-onalar uchun xudo! Oq bolalar ko'ylagi chaqaloqni muhim ertak, kontsert yoki muhim musobaqaga tezda tayyorlamoqchi bo'lgan onalar uchun qutqaruvchiga aylanadi. Bo'yinbog' yoki galstuk qo'shing - va bolaning ko'ylagi o'g'il bola uchun yangi tarzda porlaydi. Bolalarning oq uzun yengli ko'ylagi juda mos keladi. Shuning uchun, o'g'il bolalar uchun oq rangli bolalar ko'ylagi harakat erkinligini ta'minlaydi, terini ishqalamaydi va qazmaydi. O'g'il bolalar uchun oq bolalar ko'ylagi kundalik kiyim uchun ajoyib tanlov bo'ladi. 92-104 o'g'il bolalar uchun ko'ylagi yuvishga mukammal darajada toqat qiladi, dazmollash oson va shaklini yaxshi saqlaydi. Shuning uchun, tez-tez yuvilgandan keyin ham, oq paxta bolalar ko'ylagi o'zining oqligini va chiroyli ko'rinishini saqlab qoladi. O'g'il bolalar uchun ko'ylagi shkafning asosiy elementiga aylanadi",
+      "img": [
+        "https://images.uzum.uz/cjb0mq4vutv1p29kv77g/t_product_540_high.jpg#1691839204677",
+        "https://images.uzum.uz/cjb0mq4vutv1p29kv77g/original.jpg",
+        "https://images.uzum.uz/cjb0mq4jvf2nv3nn67u0/original.jpg",
+        "https://images.uzum.uz/cjb0mpsvutv1p29kv770/original.jpg",
+        "https://images.uzum.uz/cjbqkrsvutv7iataqgj0/original.jpg",
+        "https://images.uzum.uz/cjb0mqcjvf2nv3nn67v0/original.jpg"
+      ],
+      "stars": {
+        "star": 4.7,
+        "countstarts": 10
+      },
+      "sizez": [
+        {
+          "S": 20
+        },
+        {
+          "M": 2
+        },
+        {
+          "L": 22
+        },
+        {
+          "XL": 5
+        }
+      ],
+      "vendor": "trendyol store",
+      "installmentplan": "84000 so'm/oyiga",
+      "previousprice": 105000,
+      "price": 70000,
+      "things": 500,
+      "count": 1
+    },
+    {
+      "id": 18,
+      "catigoris": "Kiyim",
+      "description": "Ayollar ko'ylagi Trendyol",
+      "info": "Trendyol-turk kiyim-kechak va aksessuarlarining eng mashhur brendlaridan biri. Brend butun oila uchun modellarning katta assortimenti (ayollar, erkaklar va bolalar to'plamlari), sport va Sasualdan Ultrafashiongacha bo'lgan turli uslub va yo'nalishlar bilan ajralib turadi. Trendyol-bu arzon narxlarda trend modellari.",
+      "img": [
+        "https://images.uzum.uz/ci4l4rlenntd8rfbepr0/original.jpg",
+        "https://images.uzum.uz/ci4l4rt40v9pplt3qh80/original.jpg",
+        "https://images.uzum.uz/ci4l4stenntd8rfbeprg/original.jpg",
+        "https://images.uzum.uz/ci4l4tt40v9pplt3qh8g/original.jpg",
+        "https://images.uzum.uz/ci4pbplenntd8rfbfobg/original.jpg",
+        " https://images.uzum.uz/ci4l4u5enntd8rfbeps0/original.jpg"
+      ],
+      "stars": {
+        "star": 4.7,
+        "countstarts": 10
+      },
+      "sizez": [
+        {
+          "S": 20
+        },
+        {
+          "M": 2
+        },
+        {
+          "L": 22
+        },
+        {
+          "XL": 5
+        }
+      ],
+      "vendor": "trendyol store",
+      "installmentplan": "29 400 so'm/oyiga",
+      "previousprice": 400000,
+      "price": 245000,
+      "things": 13,
+      "count": 1
+    },
+    {
+      "id": 19,
+      "catigoris": "Kiyim",
+      "description": "Erkaklar uchun futbolka Playowo",
+      "info": "Erkaklar futbolkasi. Naqshsiz oddiy futbolka. 100% paxtadan tayyorlangan. Yumshoq va yoqimli mato. To'g'ri mos. Asosiy futbolka. Klassik yumaloq bo'yinbog'li futbolka sizsiz o'tib bo'lmaydigan asosiy qismlardan biridir. Erkaklar uchun futbolkalar erkak uchun eng yaxshi sovg'adir. Faqat kundalik kiyim uchun emas, balki sport uchun ham mos keladi. Erkaklar uchun oddiy futbolka juda ko'p qirrali, aşınmaya bardoshli. Katta oʻlchamli ayollar futbolkasi yoki bir oʻlcham katta qilib kiyish mumkin. Agar siz uni 1-2 o'lchamga kattaroq xarid qilsangiz, u katta o'lchamli futbolka sifatida kiyiladi, har qanday holatda ham u har kuni, uyda, sport yoki fitnes uchun yoki shunchaki futbolka uchun ajoyib asosiy futbolkadir. - uxlash uchun ko'ylak. Erkaklar uchun katta o'lchamli futbolkalar ko'pincha o'smirlar uchun buyurtma qilinadi. Playowo mahsulotlari o'zimizda ishlab chiqilgan va ishlab chiqarilgan. Futbolka quyidagi o'lchamlarda taqdim etilgan: M - 48, L - 50, XL - 52, 2XL -54, 3 XL - 56.",
+      "img": [
+        "https://images.uzum.uz/cg0unsvhgiov1qidhc10/original.jpg",
+        "https://images.uzum.uz/cg0unsvhj8j9g698vfvg/original.jpg",
+        "https://images.uzum.uz/cg0tfjfhj8j9g698v6cg/original.jpg",
+        "https://images.uzum.uz/cg0tf5nhj8j9g698v680/original.jpg",
+        "https://images.uzum.uz/cg0tfdfhgiov1qidh16g/original.jpg",
+        "https://images.uzum.uz/cfti2bvg49devoa96gn0/original.jpg "
+      ],
+      "stars": {
+        "star": 4.7,
+        "countstarts": 10
+      },
+      "sizez": [
+        {
+          "S": 80
+        },
+        {
+          "M": 2
+        },
+        {
+          "L": 22
+        },
+        {
+          "XL": 5
+        }
+      ],
+      "vendor": "trendyol store",
+      "installmentplan": "4 320 so'm/oyiga",
+      "previousprice": 31000,
+      "price": 70000,
+      "things": 500,
+      "count": 1
+    },
+    {
+      "id": 20,
+      "catigoris": "Elektronika",
+      "description": " Noutbuk Lenovo V15 Intel Celeron N4020 DDR4 4 GB, 256 GB SSD, Iron Grey, 15.6",
+      "info": "Lenovo V15 - mustahkam va ixcham noutbuk bo'lib, kundalik ishlar va ofis ishlari uchun ideal. U kuchli Intel Celeron N4020 protsessori bilan jihozlangan bo'lib, u turli vazifalarni bajarishda yuqori unumdorlik va samaradorlikni ta'minlaydi.Yorqin 15,6 dyuymli HD ekran bilan kontentni ko'rish, hujjatlar ustida ishlash yoki onlayn video qo'ng'iroqlarni amalga oshirishda aniq tasvirlar va jonli ranglardan bahramand bo'lishingiz mumkin. Yilni dizayni va “Temir kulrang” rangi daftarga zamonaviy va zamonaviy ko‘rinish beradi.4 Gb DDR4 operativ xotira ilovalar o‘rtasida almashinishda tizimning muammosiz va tezkor ishlashini ta’minlaydi, 256 Gb SSD esa fayllar, fotosuratlar, videolar va boshqalar uchun ko‘plab saqlash joylarini ta’minlaydi.Lenovo V15 qulay va tez yozish uchun to'liq klaviatura bilan jihozlangan. USB interfeysi turli qurilmalarni ulashni osonlashtiradi, HDMI porti esa noutbukni tashqi monitor yoki televizorga ulash imkonini beradi.Wi-Fi va Bluetooth simsiz ulanishi tufayli siz internetga ulanib qolishingiz va simlarsiz boshqa qurilmalar bilan maʼlumotlarni almashishingiz mumkin.Intel Celeron N4020 o'rnatilgan Lenovo V15 noutbuki ish, o'qish yoki o'yin uchun oddiy, ammo kuchli noutbuk izlayotganlar uchun mustahkam yechimdir. U funksionallik, zamonaviy dizayn va mukammal sifatni birlashtirib, uni kundalik foydalanish uchun ajoyib tanlovga aylantiradi.",
+      "img": [
+        "https://images.uzum.uz/cjadbikjvf2nv3nn38g0/t_product_540_high.jpg#1691839204679",
+        "https://images.uzum.uz/cj1pm1f5d7kom1tkr03g/original.jpg",
+        "https://images.uzum.uz/cj1pm0l40v9pplt6sdeg/original.jpg",
+        "https://images.uzum.uz/cj1pjl540v9pplt6scqg/original.jpg",
+        "https://images.uzum.uz/cj1pm1f5d7kom1tkr040/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 26
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "294000 so'm/oyiga",
+      "previousprice": 2945000,
+      "price": 2450000,
+      "things": 1,
+      "count": 1
+    },
+    {
+      "id": 21,
+      "catigoris": "Elektronika",
+      "description": " Simsiz minigarnituralar",
+      "info": "Qulog'ingiz shakli va quloqchinlarning joylashuvi asosida ovozingizni doimiy ravishda optimallashtiradigan faol shovqinni bekor qilish texnologiyasiga ega noyob minigarnituralar. Ular tashqi shovqinni mukammal tarzda o'chiradi, shuning uchun siz o'zingizni musiqaga to'liq sho'ng'ishingiz mumkin. Tashqi mikrofon tashqi shovqinni qabul qiladi.",
+      "img": [
+        "https://images.uzum.uz/cibd3vv5d7kom1tihq40/t_product_540_high.jpg#1691864639215",
+        "https://images.uzum.uz/cibd3vtenntd8rfc7a30/original.jpg",
+        "https://images.uzum.uz/cibd3vrltlh4bk4me1k0/original.jpg",
+        "https://images.uzum.uz/chgdv2rltlh4bk4jid00/original.jpg",
+        "https://images.uzum.uz/cibd3vv5d7kom1tihq40/original.jpg"
+      ],
+      "stars": {
+        "star": 3,
+        "countstarts": 5
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "43800 so'm/oyiga",
+      "previousprice": 700000,
+      "price": 365000,
+      "things": 12,
+      "count": 1
+    },
+    {
+      "id": 22,
+      "catigoris": "Elektronika",
+      "description": "Smartfon Tecno Spark 10 Pro 8/256 GB, 5000 mA/soat",
+      "info": "Ishlab chiqaruvchidan rasmiy kafolat 1 yil, IMEI ro‘yxatdan o‘tkazilgan.Tecno Spark 10 Pro - bu kattalarga ham, bolalarga ham mos keladigan, innovatsion va minimalistik dizaynni qo‘lga kiritgan, Tecno kompaniyasidan yangi smartfondir. Yorqin va katta ekran yorqin quyoshimiz sharoitlarida telefondan qiyinchiliksiz foydalanishga imkon yaratadi. Yuqori avtonomlik va akkumulatorning katta hajmi bilan siz hattoki uydan uzoqda ham quvvatlash haqida xavotirlanmasligingiz ham mumkin.",
+      "img": [
+        "https://images.uzum.uz/cit4c4n5d7kom1tkbpjg/t_product_540_high.jpg#1691864639219",
+        "https://images.uzum.uz/ch81qqfhj8j2b6b6p9s0/original.jpg",
+        "https://images.uzum.uz/ch81qhp25ku7n481mb5g/original.jpg",
+        "https://images.uzum.uz/ch81qkd01ighkhg8umcg/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 21
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "330 600 so'm/oyiga",
+      "previousprice": 3600000,
+      "price": 2755000,
+      "things": 7,
+      "count": 1
+    },
+    {
+      "id": 23,
+      "catigoris": "Elektronika",
+      "description": " Televizor Konig LED 32-4000",
+      "info": "umumiy ma'lumot, Marka KONIG tv 32 - 4000 LED televizor turi Ekran diagonali, (dyuym) 32 Ruxsat HD 1366(RGB)×768, WXGA, Stereo ovoz mavjud, Quvvat manbai, V 100VAC-240VAC, Eshitish vositasi uyasi mavjud, Funktsiyalar, Uyqu taymeri mavjud, Bolalar himoyasi mavjud,  Rangi,  o'lchamlari va vazni, Qora rang, Stendsiz o'lchamlar (WxHxD) 770x490x130 mm ,Sof vazni (kg) 4,3 kg, Brüt og'irligi (kg) 5,3 kg",
+      "img": [
+        "https://images.uzum.uz/cgsp5uj57mg9720f1big/original.jpg",
+        "https://images.uzum.uz/ci5dbkrltlh4bk4lo47g/t_product_540_high.jpg#1691864857739",
+        "https://images.uzum.uz/cgsp5vnhj8j9g69da9k0/original.jpg",
+        "https://images.uzum.uz/chht4il6sfhndlbmav40/original.jpg",
+        "https://images.uzum.uz/chht4k3ltlh4bk4jn480/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 15
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "150 000 so'm/oyiga",
+      "previousprice": 2000000,
+      "price": 1250000,
+      "things": 5,
+      "count": 1
+    },
+    {
+      "id": 24,
+      "catigoris": "Elektronika",
+      "description": "  Televizor uchun kronshteyn, 26-65",
+      "info": "Televizor o'rnatish moslamasi televizorni devorga osib qo'ymoqchi bo'lganlar uchun qulay va oson echimdir. Ushbu braket bozordagi aksariyat televizorlarga mos keladi va 50 kg gacha bo'lgan og'irliklarga bardosh bera oladi. Braketni biriktirilgan mahkamlagichlar bilan devorga o'rnatish oson. Unda televizorni kerakli holatga osongina va tez o‘rnatish imkonini beruvchi sozlanishi ilgaklar mavjud. Bundan tashqari, yaxshiroq ko'rish uchun televizorni osongina chapga yoki o'ngga burishingiz mumkin",
+      "img": [
+        "https://images.uzum.uz/ci26lodenntd8rfb6nsg/original.jpg",
+        "https://images.uzum.uz/cie2nnt40v9pplt4rhsg/t_product_540_high.jpg#1691866750959",
+        "https://images.uzum.uz/ci86p93ltlh4bk4m22kg/t_product_540_high.jpg#1691866750966"
+      ],
+      "stars": {
+        "star": 4,
+        "countstarts": 21
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "11 880 so'm/oyiga",
+      "previousprice": 100000,
+      "price": 90000,
+      "things": 20,
+      "count": 1
+    },
+    {
+      "id": 25,
+      "catigoris": "Elektronika",
+      "description": " Smart TV pristavkasi H96 Max X3",
+      "info": "Qurilma oddiy televizoringizni Internetga ulangan Smart TVga aylantiradi. Televizor qutisi televizoringizga ulangan planshetga o'xshaydi, ikkinchisi monitor vazifasini bajaradi va uni multimedia markaziga aylantiradi. Siz tasavvuringiz va imkoniyatlaringizdan qat'i nazar, filmlar, onlayn TV, youtube va boshqa ko'p narsalarni tomosha qilishingiz mumkin.Yaxshi o'ylangan sovutish tizimi va protsessor qurilmaning qizib ketishiga yo'l qo'ymaydi. Konsolning old panelida asosiy ma'lumotlarni aks ettiruvchi kichik LED displey mavjud. Pristavka Android 9.0 da ishlaydi, barcha mashhur multimedia formatlarini qo'llab-quvvatlaydi va filmlar, multfilmlar va seriallarni tomosha qilish uchun barcha mashhur ilovalar bilan mos keladi. 4K60K/s video ijro etish, HDR keng rangli gamut, avtomatik kadr tezligi va barcha mashhur video ko‘rish ilovalarini qo‘llab-quvvatlash media pleerni uy kinoteatrining ajralmas qurilmasiga aylantiradi",
+      "img": [
+        "https://images.uzum.uz/cg1juu7hj8j9g6991t60/t_product_540_high.jpg#1691866514459",
+        "https://images.uzum.uz/cg1juu7g49devoa9nd0g/original.jpg",
+        "https://images.uzum.uz/cg1juu7hj8j9g6991t5g/original.jpg",
+        "https://images.uzum.uz/cg1juu7g49devoa9nd00/original.jpg",
+        "https://images.uzum.uz/cg1juu7hgiov1qidjn30/original.jpg"
+      ],
+      "stars": {
+        "star": 4,
+        "countstarts": 21
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "75 600 so'm/oyiga",
+      "previousprice": 900000,
+      "price": 630000,
+      "things": 6,
+      "count": 1
+    },
+    {
+      "id": 26,
+      "catigoris": "Elektronika",
+      "description": " Noutbuk Lenovo V15 Intel Celeron N4020 DDR4 4 GB, 256 GB SSD, Iron Grey, 15.6",
+      "info": "Lenovo V15 - mustahkam va ixcham noutbuk bo'lib, kundalik ishlar va ofis ishlari uchun ideal. U kuchli Intel Celeron N4020 protsessori bilan jihozlangan bo'lib, u turli vazifalarni bajarishda yuqori unumdorlik va samaradorlikni ta'minlaydi.Yorqin 15,6 dyuymli HD ekran bilan kontentni ko'rish, hujjatlar ustida ishlash yoki onlayn video qo'ng'iroqlarni amalga oshirishda aniq tasvirlar va jonli ranglardan bahramand bo'lishingiz mumkin. Yilni dizayni va “Temir kulrang” rangi daftarga zamonaviy va zamonaviy ko‘rinish beradi.4 Gb DDR4 operativ xotira ilovalar o‘rtasida almashinishda tizimning muammosiz va tezkor ishlashini ta’minlaydi, 256 Gb SSD esa fayllar, fotosuratlar, videolar va boshqalar uchun ko‘plab saqlash joylarini ta’minlaydi.Lenovo V15 qulay va tez yozish uchun to'liq klaviatura bilan jihozlangan. USB interfeysi turli qurilmalarni ulashni osonlashtiradi, HDMI porti esa noutbukni tashqi monitor yoki televizorga ulash imkonini beradi.Wi-Fi va Bluetooth simsiz ulanishi tufayli siz internetga ulanib qolishingiz va simlarsiz boshqa qurilmalar bilan maʼlumotlarni almashishingiz mumkin.Intel Celeron N4020 o'rnatilgan Lenovo V15 noutbuki ish, o'qish yoki o'yin uchun oddiy, ammo kuchli noutbuk izlayotganlar uchun mustahkam yechimdir. U funksionallik, zamonaviy dizayn va mukammal sifatni birlashtirib, uni kundalik foydalanish uchun ajoyib tanlovga aylantiradi.",
+      "img": [
+        "https://images.uzum.uz/cjadbikjvf2nv3nn38g0/t_product_540_high.jpg#1691839204679",
+        "https://images.uzum.uz/cj1pm1f5d7kom1tkr03g/original.jpg",
+        "https://images.uzum.uz/cj1pm0l40v9pplt6sdeg/original.jpg",
+        "https://images.uzum.uz/cj1pjl540v9pplt6scqg/original.jpg",
+        "https://images.uzum.uz/cj1pm1f5d7kom1tkr040/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 26
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "294000 so'm/oyiga",
+      "previousprice": 2945000,
+      "price": 2450000,
+      "things": 1,
+      "count": 1
+    },
+    {
+      "id": 27,
+      "catigoris": "Elektronika",
+      "description": " Simsiz minigarnituralar",
+      "info": "Qulog'ingiz shakli va quloqchinlarning joylashuvi asosida ovozingizni doimiy ravishda optimallashtiradigan faol shovqinni bekor qilish texnologiyasiga ega noyob minigarnituralar. Ular tashqi shovqinni mukammal tarzda o'chiradi, shuning uchun siz o'zingizni musiqaga to'liq sho'ng'ishingiz mumkin. Tashqi mikrofon tashqi shovqinni qabul qiladi.",
+      "img": [
+        "https://images.uzum.uz/cibd3vv5d7kom1tihq40/t_product_540_high.jpg#1691864639215",
+        "https://images.uzum.uz/cibd3vtenntd8rfc7a30/original.jpg",
+        "https://images.uzum.uz/cibd3vrltlh4bk4me1k0/original.jpg",
+        "https://images.uzum.uz/chgdv2rltlh4bk4jid00/original.jpg",
+        "https://images.uzum.uz/cibd3vv5d7kom1tihq40/original.jpg"
+      ],
+      "stars": {
+        "star": 3,
+        "countstarts": 5
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "43800 so'm/oyiga",
+      "previousprice": 700000,
+      "price": 365000,
+      "things": 12,
+      "count": 1
+    },
+    {
+      "id": 28,
+      "catigoris": "Elektronika",
+      "description": "Smartfon Tecno Spark 10 Pro 8/256 GB, 5000 mA/soat",
+      "info": "Ishlab chiqaruvchidan rasmiy kafolat 1 yil, IMEI ro‘yxatdan o‘tkazilgan.Tecno Spark 10 Pro - bu kattalarga ham, bolalarga ham mos keladigan, innovatsion va minimalistik dizaynni qo‘lga kiritgan, Tecno kompaniyasidan yangi smartfondir. Yorqin va katta ekran yorqin quyoshimiz sharoitlarida telefondan qiyinchiliksiz foydalanishga imkon yaratadi. Yuqori avtonomlik va akkumulatorning katta hajmi bilan siz hattoki uydan uzoqda ham quvvatlash haqida xavotirlanmasligingiz ham mumkin.",
+      "img": [
+        "https://images.uzum.uz/cit4c4n5d7kom1tkbpjg/t_product_540_high.jpg#1691864639219",
+        "https://images.uzum.uz/ch81qqfhj8j2b6b6p9s0/original.jpg",
+        "https://images.uzum.uz/ch81qhp25ku7n481mb5g/original.jpg",
+        "https://images.uzum.uz/ch81qkd01ighkhg8umcg/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 21
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "330 600 so'm/oyiga",
+      "previousprice": 3600000,
+      "price": 2755000,
+      "things": 7,
+      "count": 1
+    },
+    {
+      "id": 29,
+      "catigoris": "Elektronika",
+      "description": " Televizor Konig LED 32-4000",
+      "info": "umumiy ma'lumot, Marka KONIG tv 32 - 4000 LED televizor turi Ekran diagonali, (dyuym) 32 Ruxsat HD 1366(RGB)×768, WXGA, Stereo ovoz mavjud, Quvvat manbai, V 100VAC-240VAC, Eshitish vositasi uyasi mavjud, Funktsiyalar, Uyqu taymeri mavjud, Bolalar himoyasi mavjud,  Rangi,  o'lchamlari va vazni, Qora rang, Stendsiz o'lchamlar (WxHxD) 770x490x130 mm ,Sof vazni (kg) 4,3 kg, Brüt og'irligi (kg) 5,3 kg",
+      "img": [
+        "https://images.uzum.uz/cgsp5uj57mg9720f1big/original.jpg",
+        "https://images.uzum.uz/ci5dbkrltlh4bk4lo47g/t_product_540_high.jpg#1691864857739",
+        "https://images.uzum.uz/cgsp5vnhj8j9g69da9k0/original.jpg",
+        "https://images.uzum.uz/chht4il6sfhndlbmav40/original.jpg",
+        "https://images.uzum.uz/chht4k3ltlh4bk4jn480/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 15
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "150 000 so'm/oyiga",
+      "previousprice": 2000000,
+      "price": 1250000,
+      "things": 5,
+      "count": 1
+    },
+    {
+      "id": 30,
+      "catigoris": "Elektronika",
+      "description": "  Televizor uchun kronshteyn, 26-65",
+      "info": "Televizor o'rnatish moslamasi televizorni devorga osib qo'ymoqchi bo'lganlar uchun qulay va oson echimdir. Ushbu braket bozordagi aksariyat televizorlarga mos keladi va 50 kg gacha bo'lgan og'irliklarga bardosh bera oladi. Braketni biriktirilgan mahkamlagichlar bilan devorga o'rnatish oson. Unda televizorni kerakli holatga osongina va tez o‘rnatish imkonini beruvchi sozlanishi ilgaklar mavjud. Bundan tashqari, yaxshiroq ko'rish uchun televizorni osongina chapga yoki o'ngga burishingiz mumkin",
+      "img": [
+        "https://images.uzum.uz/ci26lodenntd8rfb6nsg/original.jpg",
+        "https://images.uzum.uz/cie2nnt40v9pplt4rhsg/t_product_540_high.jpg#1691866750959",
+        "https://images.uzum.uz/ci86p93ltlh4bk4m22kg/t_product_540_high.jpg#1691866750966"
+      ],
+      "stars": {
+        "star": 4,
+        "countstarts": 21
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "11 880 so'm/oyiga",
+      "previousprice": 100000,
+      "price": 90000,
+      "things": 20,
+      "count": 1
+    },
+    {
+      "id": 31,
+      "catigoris": "Elektronika",
+      "description": " Smart TV pristavkasi H96 Max X3",
+      "info": "Qurilma oddiy televizoringizni Internetga ulangan Smart TVga aylantiradi. Televizor qutisi televizoringizga ulangan planshetga o'xshaydi, ikkinchisi monitor vazifasini bajaradi va uni multimedia markaziga aylantiradi. Siz tasavvuringiz va imkoniyatlaringizdan qat'i nazar, filmlar, onlayn TV, youtube va boshqa ko'p narsalarni tomosha qilishingiz mumkin.Yaxshi o'ylangan sovutish tizimi va protsessor qurilmaning qizib ketishiga yo'l qo'ymaydi. Konsolning old panelida asosiy ma'lumotlarni aks ettiruvchi kichik LED displey mavjud. Pristavka Android 9.0 da ishlaydi, barcha mashhur multimedia formatlarini qo'llab-quvvatlaydi va filmlar, multfilmlar va seriallarni tomosha qilish uchun barcha mashhur ilovalar bilan mos keladi. 4K60K/s video ijro etish, HDR keng rangli gamut, avtomatik kadr tezligi va barcha mashhur video ko‘rish ilovalarini qo‘llab-quvvatlash media pleerni uy kinoteatrining ajralmas qurilmasiga aylantiradi",
+      "img": [
+        "https://images.uzum.uz/cg1juu7hj8j9g6991t60/t_product_540_high.jpg#1691866514459",
+        "https://images.uzum.uz/cg1juu7g49devoa9nd0g/original.jpg",
+        "https://images.uzum.uz/cg1juu7hj8j9g6991t5g/original.jpg",
+        "https://images.uzum.uz/cg1juu7g49devoa9nd00/original.jpg",
+        "https://images.uzum.uz/cg1juu7hgiov1qidjn30/original.jpg"
+      ],
+      "stars": {
+        "star": 4,
+        "countstarts": 21
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "75 600 so'm/oyiga",
+      "previousprice": 900000,
+      "price": 630000,
+      "things": 6,
+      "count": 1
+    },
+    {
+      "id": 32,
+      "catigoris": "Elektronika",
+      "description": " Noutbuk Lenovo V15 Intel Celeron N4020 DDR4 4 GB, 256 GB SSD, Iron Grey, 15.6",
+      "info": "Lenovo V15 - mustahkam va ixcham noutbuk bo'lib, kundalik ishlar va ofis ishlari uchun ideal. U kuchli Intel Celeron N4020 protsessori bilan jihozlangan bo'lib, u turli vazifalarni bajarishda yuqori unumdorlik va samaradorlikni ta'minlaydi.Yorqin 15,6 dyuymli HD ekran bilan kontentni ko'rish, hujjatlar ustida ishlash yoki onlayn video qo'ng'iroqlarni amalga oshirishda aniq tasvirlar va jonli ranglardan bahramand bo'lishingiz mumkin. Yilni dizayni va “Temir kulrang” rangi daftarga zamonaviy va zamonaviy ko‘rinish beradi.4 Gb DDR4 operativ xotira ilovalar o‘rtasida almashinishda tizimning muammosiz va tezkor ishlashini ta’minlaydi, 256 Gb SSD esa fayllar, fotosuratlar, videolar va boshqalar uchun ko‘plab saqlash joylarini ta’minlaydi.Lenovo V15 qulay va tez yozish uchun to'liq klaviatura bilan jihozlangan. USB interfeysi turli qurilmalarni ulashni osonlashtiradi, HDMI porti esa noutbukni tashqi monitor yoki televizorga ulash imkonini beradi.Wi-Fi va Bluetooth simsiz ulanishi tufayli siz internetga ulanib qolishingiz va simlarsiz boshqa qurilmalar bilan maʼlumotlarni almashishingiz mumkin.Intel Celeron N4020 o'rnatilgan Lenovo V15 noutbuki ish, o'qish yoki o'yin uchun oddiy, ammo kuchli noutbuk izlayotganlar uchun mustahkam yechimdir. U funksionallik, zamonaviy dizayn va mukammal sifatni birlashtirib, uni kundalik foydalanish uchun ajoyib tanlovga aylantiradi.",
+      "img": [
+        "https://images.uzum.uz/cjadbikjvf2nv3nn38g0/t_product_540_high.jpg#1691839204679",
+        "https://images.uzum.uz/cj1pm1f5d7kom1tkr03g/original.jpg",
+        "https://images.uzum.uz/cj1pm0l40v9pplt6sdeg/original.jpg",
+        "https://images.uzum.uz/cj1pjl540v9pplt6scqg/original.jpg",
+        "https://images.uzum.uz/cj1pm1f5d7kom1tkr040/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 26
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "294000 so'm/oyiga",
+      "previousprice": 2945000,
+      "price": 2450000,
+      "things": 1,
+      "count": 1
+    },
+    {
+      "id": 33,
+      "catigoris": "Elektronika",
+      "description": " Simsiz minigarnituralar",
+      "info": "Qulog'ingiz shakli va quloqchinlarning joylashuvi asosida ovozingizni doimiy ravishda optimallashtiradigan faol shovqinni bekor qilish texnologiyasiga ega noyob minigarnituralar. Ular tashqi shovqinni mukammal tarzda o'chiradi, shuning uchun siz o'zingizni musiqaga to'liq sho'ng'ishingiz mumkin. Tashqi mikrofon tashqi shovqinni qabul qiladi.",
+      "img": [
+        "https://images.uzum.uz/cibd3vv5d7kom1tihq40/t_product_540_high.jpg#1691864639215",
+        "https://images.uzum.uz/cibd3vtenntd8rfc7a30/original.jpg",
+        "https://images.uzum.uz/cibd3vrltlh4bk4me1k0/original.jpg",
+        "https://images.uzum.uz/chgdv2rltlh4bk4jid00/original.jpg",
+        "https://images.uzum.uz/cibd3vv5d7kom1tihq40/original.jpg"
+      ],
+      "stars": {
+        "star": 3,
+        "countstarts": 5
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "43800 so'm/oyiga",
+      "previousprice": 700000,
+      "price": 365000,
+      "things": 12,
+      "count": 1
+    },
+    {
+      "id": 34,
+      "catigoris": "Elektronika",
+      "description": "Smartfon Tecno Spark 10 Pro 8/256 GB, 5000 mA/soat",
+      "info": "Ishlab chiqaruvchidan rasmiy kafolat 1 yil, IMEI ro‘yxatdan o‘tkazilgan.Tecno Spark 10 Pro - bu kattalarga ham, bolalarga ham mos keladigan, innovatsion va minimalistik dizaynni qo‘lga kiritgan, Tecno kompaniyasidan yangi smartfondir. Yorqin va katta ekran yorqin quyoshimiz sharoitlarida telefondan qiyinchiliksiz foydalanishga imkon yaratadi. Yuqori avtonomlik va akkumulatorning katta hajmi bilan siz hattoki uydan uzoqda ham quvvatlash haqida xavotirlanmasligingiz ham mumkin.",
+      "img": [
+        "https://images.uzum.uz/cit4c4n5d7kom1tkbpjg/t_product_540_high.jpg#1691864639219",
+        "https://images.uzum.uz/ch81qqfhj8j2b6b6p9s0/original.jpg",
+        "https://images.uzum.uz/ch81qhp25ku7n481mb5g/original.jpg",
+        "https://images.uzum.uz/ch81qkd01ighkhg8umcg/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 21
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "330 600 so'm/oyiga",
+      "previousprice": 3600000,
+      "price": 2755000,
+      "things": 7,
+      "count": 1
+    },
+    {
+      "id": 35,
+      "catigoris": "Elektronika",
+      "description": " Televizor Konig LED 32-4000",
+      "info": "umumiy ma'lumot, Marka KONIG tv 32 - 4000 LED televizor turi Ekran diagonali, (dyuym) 32 Ruxsat HD 1366(RGB)×768, WXGA, Stereo ovoz mavjud, Quvvat manbai, V 100VAC-240VAC, Eshitish vositasi uyasi mavjud, Funktsiyalar, Uyqu taymeri mavjud, Bolalar himoyasi mavjud,  Rangi,  o'lchamlari va vazni, Qora rang, Stendsiz o'lchamlar (WxHxD) 770x490x130 mm ,Sof vazni (kg) 4,3 kg, Brüt og'irligi (kg) 5,3 kg",
+      "img": [
+        "https://images.uzum.uz/cgsp5uj57mg9720f1big/original.jpg",
+        "https://images.uzum.uz/ci5dbkrltlh4bk4lo47g/t_product_540_high.jpg#1691864857739",
+        "https://images.uzum.uz/cgsp5vnhj8j9g69da9k0/original.jpg",
+        "https://images.uzum.uz/chht4il6sfhndlbmav40/original.jpg",
+        "https://images.uzum.uz/chht4k3ltlh4bk4jn480/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 15
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "150 000 so'm/oyiga",
+      "previousprice": 2000000,
+      "price": 1250000,
+      "things": 5,
+      "count": 1
+    },
+    {
+      "id": 36,
+      "catigoris": "Elektronika",
+      "description": "  Televizor uchun kronshteyn, 26-65",
+      "info": "Televizor o'rnatish moslamasi televizorni devorga osib qo'ymoqchi bo'lganlar uchun qulay va oson echimdir. Ushbu braket bozordagi aksariyat televizorlarga mos keladi va 50 kg gacha bo'lgan og'irliklarga bardosh bera oladi. Braketni biriktirilgan mahkamlagichlar bilan devorga o'rnatish oson. Unda televizorni kerakli holatga osongina va tez o‘rnatish imkonini beruvchi sozlanishi ilgaklar mavjud. Bundan tashqari, yaxshiroq ko'rish uchun televizorni osongina chapga yoki o'ngga burishingiz mumkin",
+      "img": [
+        "https://images.uzum.uz/ci26lodenntd8rfb6nsg/original.jpg",
+        "https://images.uzum.uz/cie2nnt40v9pplt4rhsg/t_product_540_high.jpg#1691866750959",
+        "https://images.uzum.uz/ci86p93ltlh4bk4m22kg/t_product_540_high.jpg#1691866750966"
+      ],
+      "stars": {
+        "star": 4,
+        "countstarts": 21
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "11 880 so'm/oyiga",
+      "previousprice": 100000,
+      "price": 90000,
+      "things": 20,
+      "count": 1
+    },
+    {
+      "id": 37,
+      "catigoris": "Elektronika",
+      "description": " Smart TV pristavkasi H96 Max X3",
+      "info": "Qurilma oddiy televizoringizni Internetga ulangan Smart TVga aylantiradi. Televizor qutisi televizoringizga ulangan planshetga o'xshaydi, ikkinchisi monitor vazifasini bajaradi va uni multimedia markaziga aylantiradi. Siz tasavvuringiz va imkoniyatlaringizdan qat'i nazar, filmlar, onlayn TV, youtube va boshqa ko'p narsalarni tomosha qilishingiz mumkin.Yaxshi o'ylangan sovutish tizimi va protsessor qurilmaning qizib ketishiga yo'l qo'ymaydi. Konsolning old panelida asosiy ma'lumotlarni aks ettiruvchi kichik LED displey mavjud. Pristavka Android 9.0 da ishlaydi, barcha mashhur multimedia formatlarini qo'llab-quvvatlaydi va filmlar, multfilmlar va seriallarni tomosha qilish uchun barcha mashhur ilovalar bilan mos keladi. 4K60K/s video ijro etish, HDR keng rangli gamut, avtomatik kadr tezligi va barcha mashhur video ko‘rish ilovalarini qo‘llab-quvvatlash media pleerni uy kinoteatrining ajralmas qurilmasiga aylantiradi",
+      "img": [
+        "https://images.uzum.uz/cg1juu7hj8j9g6991t60/t_product_540_high.jpg#1691866514459",
+        "https://images.uzum.uz/cg1juu7g49devoa9nd0g/original.jpg",
+        "https://images.uzum.uz/cg1juu7hj8j9g6991t5g/original.jpg",
+        "https://images.uzum.uz/cg1juu7g49devoa9nd00/original.jpg",
+        "https://images.uzum.uz/cg1juu7hgiov1qidjn30/original.jpg"
+      ],
+      "stars": {
+        "star": 4,
+        "countstarts": 21
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "75 600 so'm/oyiga",
+      "previousprice": 900000,
+      "price": 630000,
+      "things": 6,
+      "count": 1
+    },
+    {
+      "id": 38,
+      "catigoris": "Elektronika",
+      "description": " Noutbuk Lenovo V15 Intel Celeron N4020 DDR4 4 GB, 256 GB SSD, Iron Grey, 15.6",
+      "info": "Lenovo V15 - mustahkam va ixcham noutbuk bo'lib, kundalik ishlar va ofis ishlari uchun ideal. U kuchli Intel Celeron N4020 protsessori bilan jihozlangan bo'lib, u turli vazifalarni bajarishda yuqori unumdorlik va samaradorlikni ta'minlaydi.Yorqin 15,6 dyuymli HD ekran bilan kontentni ko'rish, hujjatlar ustida ishlash yoki onlayn video qo'ng'iroqlarni amalga oshirishda aniq tasvirlar va jonli ranglardan bahramand bo'lishingiz mumkin. Yilni dizayni va “Temir kulrang” rangi daftarga zamonaviy va zamonaviy ko‘rinish beradi.4 Gb DDR4 operativ xotira ilovalar o‘rtasida almashinishda tizimning muammosiz va tezkor ishlashini ta’minlaydi, 256 Gb SSD esa fayllar, fotosuratlar, videolar va boshqalar uchun ko‘plab saqlash joylarini ta’minlaydi.Lenovo V15 qulay va tez yozish uchun to'liq klaviatura bilan jihozlangan. USB interfeysi turli qurilmalarni ulashni osonlashtiradi, HDMI porti esa noutbukni tashqi monitor yoki televizorga ulash imkonini beradi.Wi-Fi va Bluetooth simsiz ulanishi tufayli siz internetga ulanib qolishingiz va simlarsiz boshqa qurilmalar bilan maʼlumotlarni almashishingiz mumkin.Intel Celeron N4020 o'rnatilgan Lenovo V15 noutbuki ish, o'qish yoki o'yin uchun oddiy, ammo kuchli noutbuk izlayotganlar uchun mustahkam yechimdir. U funksionallik, zamonaviy dizayn va mukammal sifatni birlashtirib, uni kundalik foydalanish uchun ajoyib tanlovga aylantiradi.",
+      "img": [
+        "https://images.uzum.uz/cjadbikjvf2nv3nn38g0/t_product_540_high.jpg#1691839204679",
+        "https://images.uzum.uz/cj1pm1f5d7kom1tkr03g/original.jpg",
+        "https://images.uzum.uz/cj1pm0l40v9pplt6sdeg/original.jpg",
+        "https://images.uzum.uz/cj1pjl540v9pplt6scqg/original.jpg",
+        "https://images.uzum.uz/cj1pm1f5d7kom1tkr040/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 26
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "294000 so'm/oyiga",
+      "previousprice": 2945000,
+      "price": 2450000,
+      "things": 1,
+      "count": 1
+    },
+    {
+      "id": 39,
+      "catigoris": "Elektronika",
+      "description": " Simsiz minigarnituralar",
+      "info": "Qulog'ingiz shakli va quloqchinlarning joylashuvi asosida ovozingizni doimiy ravishda optimallashtiradigan faol shovqinni bekor qilish texnologiyasiga ega noyob minigarnituralar. Ular tashqi shovqinni mukammal tarzda o'chiradi, shuning uchun siz o'zingizni musiqaga to'liq sho'ng'ishingiz mumkin. Tashqi mikrofon tashqi shovqinni qabul qiladi.",
+      "img": [
+        "https://images.uzum.uz/cibd3vv5d7kom1tihq40/t_product_540_high.jpg#1691864639215",
+        "https://images.uzum.uz/cibd3vtenntd8rfc7a30/original.jpg",
+        "https://images.uzum.uz/cibd3vrltlh4bk4me1k0/original.jpg",
+        "https://images.uzum.uz/chgdv2rltlh4bk4jid00/original.jpg",
+        "https://images.uzum.uz/cibd3vv5d7kom1tihq40/original.jpg"
+      ],
+      "stars": {
+        "star": 3,
+        "countstarts": 5
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "43800 so'm/oyiga",
+      "previousprice": 700000,
+      "price": 365000,
+      "things": 12,
+      "count": 1
+    },
+    {
+      "id": 40,
+      "catigoris": "Elektronika",
+      "description": "Smartfon Tecno Spark 10 Pro 8/256 GB, 5000 mA/soat",
+      "info": "Ishlab chiqaruvchidan rasmiy kafolat 1 yil, IMEI ro‘yxatdan o‘tkazilgan.Tecno Spark 10 Pro - bu kattalarga ham, bolalarga ham mos keladigan, innovatsion va minimalistik dizaynni qo‘lga kiritgan, Tecno kompaniyasidan yangi smartfondir. Yorqin va katta ekran yorqin quyoshimiz sharoitlarida telefondan qiyinchiliksiz foydalanishga imkon yaratadi. Yuqori avtonomlik va akkumulatorning katta hajmi bilan siz hattoki uydan uzoqda ham quvvatlash haqida xavotirlanmasligingiz ham mumkin.",
+      "img": [
+        "https://images.uzum.uz/cit4c4n5d7kom1tkbpjg/t_product_540_high.jpg#1691864639219",
+        "https://images.uzum.uz/ch81qqfhj8j2b6b6p9s0/original.jpg",
+        "https://images.uzum.uz/ch81qhp25ku7n481mb5g/original.jpg",
+        "https://images.uzum.uz/ch81qkd01ighkhg8umcg/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 21
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "330 600 so'm/oyiga",
+      "previousprice": 3600000,
+      "price": 2755000,
+      "things": 7,
+      "count": 1
+    },
+    {
+      "id": 41,
+      "catigoris": "Elektronika",
+      "description": " Televizor Konig LED 32-4000",
+      "info": "umumiy ma'lumot, Marka KONIG tv 32 - 4000 LED televizor turi Ekran diagonali, (dyuym) 32 Ruxsat HD 1366(RGB)×768, WXGA, Stereo ovoz mavjud, Quvvat manbai, V 100VAC-240VAC, Eshitish vositasi uyasi mavjud, Funktsiyalar, Uyqu taymeri mavjud, Bolalar himoyasi mavjud,  Rangi,  o'lchamlari va vazni, Qora rang, Stendsiz o'lchamlar (WxHxD) 770x490x130 mm ,Sof vazni (kg) 4,3 kg, Brüt og'irligi (kg) 5,3 kg",
+      "img": [
+        "https://images.uzum.uz/cgsp5uj57mg9720f1big/original.jpg",
+        "https://images.uzum.uz/ci5dbkrltlh4bk4lo47g/t_product_540_high.jpg#1691864857739",
+        "https://images.uzum.uz/cgsp5vnhj8j9g69da9k0/original.jpg",
+        "https://images.uzum.uz/chht4il6sfhndlbmav40/original.jpg",
+        "https://images.uzum.uz/chht4k3ltlh4bk4jn480/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 15
+      },
+      "installmentplan": "150 000 so'm/oyiga",
+      "previousprice": 2000000,
+      "price": 1250000,
+      "things": 5,
+      "count": 1
+    },
+    {
+      "id": 42,
+      "catigoris": "Elektronika",
+      "description": "  Televizor uchun kronshteyn, 26-65",
+      "info": "Televizor o'rnatish moslamasi televizorni devorga osib qo'ymoqchi bo'lganlar uchun qulay va oson echimdir. Ushbu braket bozordagi aksariyat televizorlarga mos keladi va 50 kg gacha bo'lgan og'irliklarga bardosh bera oladi. Braketni biriktirilgan mahkamlagichlar bilan devorga o'rnatish oson. Unda televizorni kerakli holatga osongina va tez o‘rnatish imkonini beruvchi sozlanishi ilgaklar mavjud. Bundan tashqari, yaxshiroq ko'rish uchun televizorni osongina chapga yoki o'ngga burishingiz mumkin",
+      "img": [
+        "https://images.uzum.uz/ci26lodenntd8rfb6nsg/original.jpg",
+        "https://images.uzum.uz/cie2nnt40v9pplt4rhsg/t_product_540_high.jpg#1691866750959",
+        "https://images.uzum.uz/ci86p93ltlh4bk4m22kg/t_product_540_high.jpg#1691866750966"
+      ],
+      "stars": {
+        "star": 4,
+        "countstarts": 21
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "11 880 so'm/oyiga",
+      "previousprice": 100000,
+      "price": 90000,
+      "things": 20,
+      "count": 1
+    },
+    {
+      "id": 43,
+      "catigoris": "Elektronika",
+      "description": " Smart TV pristavkasi H96 Max X3",
+      "info": "Qurilma oddiy televizoringizni Internetga ulangan Smart TVga aylantiradi. Televizor qutisi televizoringizga ulangan planshetga o'xshaydi, ikkinchisi monitor vazifasini bajaradi va uni multimedia markaziga aylantiradi. Siz tasavvuringiz va imkoniyatlaringizdan qat'i nazar, filmlar, onlayn TV, youtube va boshqa ko'p narsalarni tomosha qilishingiz mumkin.Yaxshi o'ylangan sovutish tizimi va protsessor qurilmaning qizib ketishiga yo'l qo'ymaydi. Konsolning old panelida asosiy ma'lumotlarni aks ettiruvchi kichik LED displey mavjud. Pristavka Android 9.0 da ishlaydi, barcha mashhur multimedia formatlarini qo'llab-quvvatlaydi va filmlar, multfilmlar va seriallarni tomosha qilish uchun barcha mashhur ilovalar bilan mos keladi. 4K60K/s video ijro etish, HDR keng rangli gamut, avtomatik kadr tezligi va barcha mashhur video ko‘rish ilovalarini qo‘llab-quvvatlash media pleerni uy kinoteatrining ajralmas qurilmasiga aylantiradi",
+      "img": [
+        "https://images.uzum.uz/cg1juu7hj8j9g6991t60/t_product_540_high.jpg#1691866514459",
+        "https://images.uzum.uz/cg1juu7g49devoa9nd0g/original.jpg",
+        "https://images.uzum.uz/cg1juu7hj8j9g6991t5g/original.jpg",
+        "https://images.uzum.uz/cg1juu7g49devoa9nd00/original.jpg",
+        "https://images.uzum.uz/cg1juu7hgiov1qidjn30/original.jpg"
+      ],
+      "stars": {
+        "star": 4,
+        "countstarts": 21
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "75 600 so'm/oyiga",
+      "previousprice": 900000,
+      "price": 630000,
+      "things": 6,
+      "count": 1
+    },
+    {
+      "id": 44,
+      "catigoris": "Maishiytexnika",
+      "description": "Avtomat kir yuvish va quritish mashinasi TCL Invertor Combo, 10 kg gacha",
+      "info": "To'g'ridan-to'g'ri qo'zg'atuvchi vosita kamarsiz ishlaydi va kuchli vosita to'g'ridan-to'g'ri barabanga ulanadi. Samarali va barqaror dizayn shovqin va tebranishlarni sezilarli darajada kamaytiradi. Shu bilan birga, bu sizga energiya va suv sarfini kamaytirish imkonini beradi. Barabanning pastki qismida gigienik bug 'hosil bo'ladi, shuning uchun barcha kirlar bug' muhitida bo'ladi. Bu changlar, gulchanglar, hayvonlarning tuklari kabi allergiya keltirib chiqaradigan bakteriyalarni yo'q qiladi. Kiyimlaringiz yaxshilab va gigienik tarzda tozalanadi. Avtomat kir yuvish va quritish mashinasi TCL Invertor Combo, 10 kg gacha fotosurat",
+      "img": [
+        "https://images.uzum.uz/cf9lv28v1htd23alju7g/original.jpg",
+        "https://images.uzum.uz/cf9lvigl08k0o9qihc60/original.jpg",
+        "https://images.uzum.uz/cf9lvrgv1htd23aljud0/original.jpg",
+        "https://images.uzum.uz/cf9lvu0l08k0o9qihc6g/original.jpg",
+        "https://images.uzum.uz/cf9lvigl08k0o9qihc60/original.jpg"
+      ],
+      "stars": {
+        "star": 4.5,
+        "countstarts": 50
+      },
+      "vendor": "Домашний Очаг",
+      "installmentplan": "858 800 so'm/oyiga",
+      "previousprice": 9760000,
+      "price": 7155000,
+      "things": 15,
+      "count": 1
+    },
+    {
+      "id": 45,
+      "catigoris": "Maishiytexnika",
+      "description": "Gaz plitasi GEFEST 6300-02 0347",
+      "info": "Ishlab chiqaruvchi Gefest x`Plitalar turi Gaz Qoplama Emal Idishlarni saqlash uchun quti Mavjud Boshqarish turi Mexanik Pishirish yuzasi Pishirish sirt turi Gaz Panjara materiali Chugun Konforkalar soni 4 Pech shkafi Javonli pech turi Gaz Pechning hajmi 52 Litr Pechni yoritish Mavjud Gril Mavjud",
+      "img": [
+        "https://images.uzum.uz/ch7o9jt01ighkhg8t960/original.jpg",
+        "https://images.uzum.uz/ch7o9jt01ighkhg8t960/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 50
+      },
+      "vendor": "Домашний Очаг",
+      "installmentplan": "550 400 so'm/oyiga",
+      "previousprice": 4900000,
+      "price": 4600000,
+      "things": 49,
+      "count": 1
+    },
+    {
+      "id": 46,
+      "catigoris": "Maishiytexnika",
+      "description": "Gaz-elektr Plita Biryusa N60GE07W",
+      "info": "Koson rangi: oq Gorelkalar soni: 3 (gaz) + 1 (elektr) Avtomatik elektr yoqish Mexanik taymer Metall panjara Gazni boshqarish O‘lchamlari (sm): 85x60x60",
+      "img": [
+        "https://images.uzum.uz/cd98v4v0tgqvlm58ulm0/original.jpg",
+        "https://images.uzum.uz/cd98v4v0tgqvlm58ulm0/original.jpg"
+      ],
+      "stars": {
+        "star": 4,
+        "countstarts": 3
+      },
+      "vendor": "Домашний Очаг",
+      "installmentplan": "403 400 so'm/oyiga",
+      "previousprice": 3865000,
+      "price": 3365000,
+      "things": 4,
+      "count": 1
+    },
+    {
+      "id": 47,
+      "catigoris": "Maishiytexnika",
+      "description": "Elektr choynak, tefal, qaynoq suv uchun elektr choynak,",
+      "info": "Zanglamaydigan po'latdan yasalgan korpusli klassik elektr choynak. Yashirin isitish elementi bilan jihozlangan ushbu model 2,2 litrgacha suvni tezda qaynatish imkonini beradi. Kuchliligi, ishonchliligi va ko'rinadigan ko'rinishi tufayli u uyda yoki mamlakatda foydalanish uchun javob beradi. Qo‘lingizning kaftida sirg‘alib ketmaydigan qulay tutqich choynakni ko‘tarish, uni bir joydan ikkinchi joyga ko‘chirish va kerak bo‘lganda egishni osonlashtiradi. Nopokliklar yo'q Sintetik filtr ohakni ushlab turadi va uni quyish paytida idishga tushishiga yo'l qo'ymaydi. Sizning choyingiz tabiiy ta'mga ega bo'ladi, begona aralashmalarsiz. Xavfsizlik Avtomatik o'chirish tizimi qaynayotganda va idishdagi suv etishmasligi tufayli qizib ketganda faollashadi.",
+      "img": [
+        "https://images.uzum.uz/cge736vhgiov1qifavv0/original.jpg",
+        "https://images.uzum.uz/cge7377g49devoabf6pg/original.jpg",
+        "https://images.uzum.uz/cge736vhgiov1qifavv0/original.jpg",
+        "https://images.uzum.uz/cge737nhj8j9g69ap67g/original.jpg",
+        "https://images.uzum.uz/cge738vhj8j9g69ap680/original.jpg"
+      ],
+      "stars": {
+        "star": 4,
+        "countstarts": 21
+      },
+      "vendor": "Домашний Очаг",
+      "installmentplan": "8 400 so'm/oyiga",
+      "previousprice": 120000,
+      "price": 70000,
+      "things": 49,
+      "count": 1
+    },
+    {
+      "id": 48,
+      "catigoris": "Maishiytexnika",
+      "description": "Tikuv mashinasi JANOME HomeDecor 2077",
+      "info": "Janome HomeDecor 2077 elektromexanik tikuv mashinasi tikuvchilikni o'rganmoqchi bo'lganlar uchun mos keladi. Tikuv funktsiyalarining optimal to'plami tufayli siz tezda qulay bo'lishingiz va yaratishni boshlashingiz mumkin. Olinadigan yeng paneli tufayli siz tor mahsulotlarni qayta ishlashingiz mumkin: yenglarning manjetlari, oyoqlarning pastki qismi, bolalar buyumlari. Janome HomeDecor 2077 ish, trikotaj, overlok tikuvlari, shuningdek, yarim avtomatik rejimda bajariladigan tugma teshigi kabi asosiy bo'yin operatsiyalariga ega.",
+      "img": [
+        "https://images.uzum.uz/cc8egs6ha881nt1ejt40/original.jpg",
+        "https://images.uzum.uz/cc8egs6ha881nt1ejt60/original.jpg",
+        "https://images.uzum.uz/cc8egs6ha881nt1ejt50/original.jpg",
+        "https://images.uzum.uz/cc8egs6ha881nt1ejt3g/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 50
+      },
+      "vendor": "Домашний Очаг",
+      "installmentplan": "214 400 so'm/oyiga",
+      "previousprice": 2050000,
+      "price": 1759000,
+      "things": 49,
+      "count": 1
+    },
+    {
+      "id": 49,
+      "catigoris": "Maishiytexnika",
+      "description": "Muzlatgich TCL ECO Invertor Total No Frost, 486 litr",
+      "info": "AAT (avtomatik anion chiqarish texnologiyasi)Korpusning ichki qismiga maxsus mineral material qo'shilib, muzlatgichga quyidagi afzalliklarni beradi: Bakteriostatik, tozalovchi, antioksidant. Aylanadigan havo chiqishi ichki havo oqimining bir tekis uzatilishiga ko'proq yordam beradi va sovutish tezligini oshiradi. Katta hajmi sizning oilangizning barcha talablariga javob beradi. Uch o'lchovli havo sovutish oziq-ovqat mahsulotlarini uzoqroq saqlashga imkon beradi. Asl ta'mi, ajoyib shakli va yorqin rangini saqlaydi. Suv dispenseri 2-8 ℃ haroratdagi sovuq suv bilan ta'minlaydi. Muzlatish tezligini oshiring va haroratni tezda pasaytiring. Elektron boshqaruv, haroratni sozlash. Sovutgich va muzlatgich haroratini bir-biridan mustaqil ravishda sozlang.",
+      "img": [
+        "https://images.uzum.uz/cdjpbmf0tgqvlm59e010/original.jpg",
+        "https://images.uzum.uz/chich1f5d7kom1tfthqg/original.jpg",
+        "https://images.uzum.uz/chich23ltlh4bk4johpg/original.jpg",
+        "https://images.uzum.uz/cdiut7jb3ho5lmurh23g/original.jpg",
+        "https://images.uzum.uz/cdjpbgbb3ho5lmurid40/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 50
+      },
+      "vendor": "Домашний Очаг",
+      "installmentplan": "350 400 so'm/oyiga",
+      "previousprice": 6050000,
+      "price": 5759000,
+      "things": 5,
+      "count": 1
+    },
+    {
+      "id": 50,
+      "catigoris": "Maishiytexnika",
+      "description": "Avtomat kir yuvish va quritish mashinasi TCL Invertor Combo, 10 kg gacha",
+      "info": "To'g'ridan-to'g'ri qo'zg'atuvchi vosita kamarsiz ishlaydi va kuchli vosita to'g'ridan-to'g'ri barabanga ulanadi. Samarali va barqaror dizayn shovqin va tebranishlarni sezilarli darajada kamaytiradi. Shu bilan birga, bu sizga energiya va suv sarfini kamaytirish imkonini beradi. Barabanning pastki qismida gigienik bug 'hosil bo'ladi, shuning uchun barcha kirlar bug' muhitida bo'ladi. Bu changlar, gulchanglar, hayvonlarning tuklari kabi allergiya keltirib chiqaradigan bakteriyalarni yo'q qiladi. Kiyimlaringiz yaxshilab va gigienik tarzda tozalanadi. Avtomat kir yuvish va quritish mashinasi TCL Invertor Combo, 10 kg gacha fotosurat",
+      "img": [
+        "https://images.uzum.uz/cf9lv28v1htd23alju7g/original.jpg",
+        "https://images.uzum.uz/cf9lvigl08k0o9qihc60/original.jpg",
+        "https://images.uzum.uz/cf9lvrgv1htd23aljud0/original.jpg",
+        "https://images.uzum.uz/cf9lvu0l08k0o9qihc6g/original.jpg",
+        "https://images.uzum.uz/cf9lvigl08k0o9qihc60/original.jpg"
+      ],
+      "stars": {
+        "star": 4.5,
+        "countstarts": 50
+      },
+      "vendor": "Домашний Очаг",
+      "installmentplan": "858 800 so'm/oyiga",
+      "previousprice": 9760000,
+      "price": 7155000,
+      "things": 15,
+      "count": 1
+    },
+    {
+      "id": 51,
+      "catigoris": "Maishiytexnika",
+      "description": "Gaz plitasi GEFEST 6300-02 0347",
+      "info": "Ishlab chiqaruvchi Gefest x`Plitalar turi Gaz Qoplama Emal Idishlarni saqlash uchun quti Mavjud Boshqarish turi Mexanik Pishirish yuzasi Pishirish sirt turi Gaz Panjara materiali Chugun Konforkalar soni 4 Pech shkafi Javonli pech turi Gaz Pechning hajmi 52 Litr Pechni yoritish Mavjud Gril Mavjud",
+      "img": [
+        "https://images.uzum.uz/ch7o9jt01ighkhg8t960/original.jpg",
+        "https://images.uzum.uz/ch7o9jt01ighkhg8t960/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 50
+      },
+      "vendor": "Домашний Очаг",
+      "installmentplan": "550 400 so'm/oyiga",
+      "previousprice": 4900000,
+      "price": 4600000,
+      "things": 49,
+      "count": 1
+    },
+    {
+      "id": 52,
+      "catigoris": "Maishiytexnika",
+      "description": "Gaz-elektr Plita Biryusa N60GE07W",
+      "info": "Koson rangi: oq Gorelkalar soni: 3 (gaz) + 1 (elektr) Avtomatik elektr yoqish Mexanik taymer Metall panjara Gazni boshqarish O‘lchamlari (sm): 85x60x60",
+      "img": [
+        "https://images.uzum.uz/cd98v4v0tgqvlm58ulm0/original.jpg",
+        "https://images.uzum.uz/cd98v4v0tgqvlm58ulm0/original.jpg"
+      ],
+      "stars": {
+        "star": 4,
+        "countstarts": 3
+      },
+      "vendor": "Домашний Очаг",
+      "installmentplan": "403 400 so'm/oyiga",
+      "previousprice": 3865000,
+      "price": 3365000,
+      "things": 4,
+      "count": 1
+    },
+    {
+      "id": 53,
+      "catigoris": "Poyabzallar",
+      "description": "Erkaklar yozgi krossovkalari to'rli",
+      "info": "By by Yourself kompaniyasining kattalar uchun yozgi krossovkalari dinamik turmush tarzi muxlislari kundalik poyabzal uchun qo'yadigan talablarga to'liq javob beradi. Etarlicha moslashuvchan va juda engil Croslite materialining tagligi to'liq qo'llab-quvvatlash va etarli tamponlama hosil qiladi, Matlite ustki qismi oyoqqa mukammal mos keladi va cho'zilgan yumshoq tagliklar sizni mutlaqo qulay va ishonchli his qilishingizga imkon beradi va hatto kun bo'yi harakatda bo'lganingizda ham charchamaysiz. By kattalar krossovkalarining yana bir xususiyati haqiqiy siluet edi, buning natijasida poyabzal sport uslubidagi tasvirga va tasodifiy uslubdagi shkafga mukammal mos keladi.",
+      "img": [
+        "https://images.uzum.uz/cfsase7hj8j9g698ct50/original.jpg",
+        "https://images.uzum.uz/cfsase7hgiov1qicud80/original.jpg",
+        "https://images.uzum.uz/cfsase7g49devoa92nk0/original.jpg",
+        "https://images.uzum.uz/cittgcf5d7kom1tkenpg/original.jpg",
+        "https://images.uzum.uz/cittgcl6sfhndlbqu360/original.jpg",
+        "https://images.uzum.uz/cittgirltlh4bk4ob9ig/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 50
+      },
+      "sizes": [
+        {
+          "40": 22
+        },
+        {
+          "41": 15
+        },
+        {
+          "42": 51
+        },
+        {
+          "43": 10
+        },
+        {
+          "44": 2
+        }
+      ],
+      "vendor": "Buy yourself",
+      "installmentplan": "11 760 so'm/oyiga",
+      "previousprice": 249000,
+      "price": 98000,
+      "things": 150,
+      "count": 1
+    },
+    {
+      "id": 54,
+      "catigoris": "Poyabzallar",
+      "description": "Ayollar krossovkalari yozgi",
+      "info": "Yozgi krassovkalar, a'lo sifat - arzon narxda",
+      "img": [
+        "https://images.uzum.uz/cg67bu7g49devoaaad6g/original.jpg",
+        "https://images.uzum.uz/cg67bu7hj8j9g699kte0/original.jpg",
+        "https://images.uzum.uz/cg67bufg49devoaaad7g/original.jpg",
+        "https://images.uzum.uz/cg67bu7hgiov1qie6p1g/original.jpg",
+        "https://images.uzum.uz/cg67bufhj8j9g699kteg/original.jpg",
+        "https://images.uzum.uz/cg67dmnhgiov1qie6pog/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 50
+      },
+      "sizes": [
+        {
+          "40": 12
+        },
+        {
+          "41": 155
+        },
+        {
+          "42": 51
+        },
+        {
+          "43": 10
+        },
+        {
+          "44": 2
+        }
+      ],
+      "vendor": "Buy yourself",
+      "installmentplan": "10 800 so'm/oyiga",
+      "previousprice": 150000,
+      "price": 84000,
+      "things": 190,
+      "count": 1
+    },
+    {
+      "id": 55,
+      "catigoris": "Poyabzallar",
+      "description": "Sandalilar poshnada ayollar uchun",
+      "info": "Sandal turi - «Gladiator» uslubida",
+      "img": [
+        "https://images.uzum.uz/ci4n58r6edfostigu27g/original.jpg",
+        "https://images.uzum.uz/ci4n58t40v9pplt3qv6g/original.jpg",
+        "https://images.uzum.uz/ci4n58r6edfostigu280/original.jpg",
+        "https://images.uzum.uz/ci4n55d6sfhndlbo8ca0/original.jpg",
+        "https://images.uzum.uz/ci4n5556sfhndlbo8c9g/original.jpg",
+        "https://images.uzum.uz/ci4n55l6sfhndlbo8cag/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 50
+      },
+      "sizes": [
+        {
+          "40": 12
+        },
+        {
+          "41": 15
+        },
+        {
+          "42": 51
+        },
+        {
+          "43": 10
+        },
+        {
+          "44": 2
+        }
+      ],
+      "vendor": "Buy yourself",
+      "installmentplan": "13 200 so'm/oyiga",
+      "previousprice": 160000,
+      "price": 100000,
+      "things": 140,
+      "count": 1
+    },
+    {
+      "id": 56,
+      "catigoris": "Poyabzallar",
+      "description": "Bolalar uchun to'rli krossovkalar",
+      "info": "Ushbu bolalar sport poyabzali kompaniyamiz tomonidan ishlab chiqarilgan va ushbu turdagi sport poyabzallarining afzalliklari quyidagilardan iborat: yengillik, yaxshi xavo o'tkazish qobiliyati,oyoqda yaxshi turishi va qulayligidir.",
+      "img": [
+        "https://images.uzum.uz/chh39bf5d7kom1tfpgi0/original.jpg",
+        "https://images.uzum.uz/chh39bdenntd8rf9f21g/original.jpg",
+        "https://images.uzum.uz/chk8bllenntd8rf9oplg/original.jpg",
+        "https://images.uzum.uz/chk8bmd6sfhndlbmi150/original.jpg",
+        "https://images.uzum.uz/chk8bmt40v9pplt24j8g/original.jpg",
+        "https://images.uzum.uz/chk8bl3ltlh4bk4jutlg/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 50
+      },
+      "sizes": [
+        {
+          "40": 12
+        },
+        {
+          "41": 15
+        },
+        {
+          "42": 51
+        },
+        {
+          "43": 10
+        },
+        {
+          "44": 2
+        }
+      ],
+      "vendor": "Baby обувь",
+      "installmentplan": "11 800 so'm/oyiga",
+      "previousprice": 299000,
+      "price": 99000,
+      "things": 140,
+      "count": 1
+    },
+    {
+      "id": 57,
+      "catigoris": "Poyabzallar",
+      "description": "Erkaklar mokasinalari",
+      "info": "100 foiz tabiiy teridan ishlangan mokasin.",
+      "img": [
+        "https://images.uzum.uz/cj1qrsv5d7kom1tkr7s0/original.jpg",
+        "https://images.uzum.uz/cj1qsttenntd8rfegocg/original.jpg",
+        "https://images.uzum.uz/cg8kh7vhj8j9g699vavg/original.jpg",
+        "https://images.uzum.uz/cg8kh7vhj8j9g699vb10/original.jpg",
+        "https://images.uzum.uz/cj1qqqf5d7kom1tkr7mg/original.jpg",
+        "https://images.uzum.uz/cg8kh57hgiov1qiehdi0/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 50
+      },
+      "sizes": [
+        {
+          "40": 12
+        },
+        {
+          "41": 15
+        },
+        {
+          "42": 51
+        },
+        {
+          "43": 10
+        },
+        {
+          "44": 2
+        }
+      ],
+      "vendor": "Yaxshi Shoes",
+      "installmentplan": "27 600 so'm/oyiga",
+      "previousprice": 329000,
+      "price": 230000,
+      "things": 80,
+      "count": 1
+    },
+    {
+      "id": 58,
+      "catigoris": "Poyabzallar",
+      "description": "Erkaklar yozgi krossovkalari to'rli",
+      "info": "By by Yourself kompaniyasining kattalar uchun yozgi krossovkalari dinamik turmush tarzi muxlislari kundalik poyabzal uchun qo'yadigan talablarga to'liq javob beradi. Etarlicha moslashuvchan va juda engil Croslite materialining tagligi to'liq qo'llab-quvvatlash va etarli tamponlama hosil qiladi, Matlite ustki qismi oyoqqa mukammal mos keladi va cho'zilgan yumshoq tagliklar sizni mutlaqo qulay va ishonchli his qilishingizga imkon beradi va hatto kun bo'yi harakatda bo'lganingizda ham charchamaysiz. By kattalar krossovkalarining yana bir xususiyati haqiqiy siluet edi, buning natijasida poyabzal sport uslubidagi tasvirga va tasodifiy uslubdagi shkafga mukammal mos keladi.",
+      "img": [
+        "https://images.uzum.uz/cfsase7hj8j9g698ct50/original.jpg",
+        "https://images.uzum.uz/cfsase7hgiov1qicud80/original.jpg",
+        "https://images.uzum.uz/cfsase7g49devoa92nk0/original.jpg",
+        "https://images.uzum.uz/cittgcf5d7kom1tkenpg/original.jpg",
+        "https://images.uzum.uz/cittgcl6sfhndlbqu360/original.jpg",
+        "https://images.uzum.uz/cittgirltlh4bk4ob9ig/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 50
+      },
+      "sizes": [
+        {
+          "40": 22
+        },
+        {
+          "41": 15
+        },
+        {
+          "42": 51
+        },
+        {
+          "43": 10
+        },
+        {
+          "44": 2
+        }
+      ],
+      "vendor": "Buy yourself",
+      "installmentplan": "11 760 so'm/oyiga",
+      "previousprice": 249000,
+      "price": 98000,
+      "things": 150,
+      "count": 1
+    },
+    {
+      "id": 59,
+      "catigoris": "Poyabzallar",
+      "description": "Ayollar krossovkalari yozgi",
+      "info": "Yozgi krassovkalar, a'lo sifat - arzon narxda",
+      "img": [
+        "https://images.uzum.uz/cg67bu7g49devoaaad6g/original.jpg",
+        "https://images.uzum.uz/cg67bu7hj8j9g699kte0/original.jpg",
+        "https://images.uzum.uz/cg67bufg49devoaaad7g/original.jpg",
+        "https://images.uzum.uz/cg67bu7hgiov1qie6p1g/original.jpg",
+        "https://images.uzum.uz/cg67bufhj8j9g699kteg/original.jpg",
+        "https://images.uzum.uz/cg67dmnhgiov1qie6pog/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 50
+      },
+      "sizes": [
+        {
+          "40": 12
+        },
+        {
+          "41": 155
+        },
+        {
+          "42": 51
+        },
+        {
+          "43": 10
+        },
+        {
+          "44": 2
+        }
+      ],
+      "vendor": "Buy yourself",
+      "installmentplan": "10 800 so'm/oyiga",
+      "previousprice": 150000,
+      "price": 84000,
+      "things": 190,
+      "count": 1
+    },
+    {
+      "id": 60,
+      "catigoris": "Poyabzallar",
+      "description": "Sandalilar poshnada ayollar uchun",
+      "info": "Sandal turi - «Gladiator» uslubida",
+      "img": [
+        "https://images.uzum.uz/ci4n58r6edfostigu27g/original.jpg",
+        "https://images.uzum.uz/ci4n58t40v9pplt3qv6g/original.jpg",
+        "https://images.uzum.uz/ci4n58r6edfostigu280/original.jpg",
+        "https://images.uzum.uz/ci4n55d6sfhndlbo8ca0/original.jpg",
+        "https://images.uzum.uz/ci4n5556sfhndlbo8c9g/original.jpg",
+        "https://images.uzum.uz/ci4n55l6sfhndlbo8cag/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 50
+      },
+      "sizes": [
+        {
+          "40": 12
+        },
+        {
+          "41": 15
+        },
+        {
+          "42": 51
+        },
+        {
+          "43": 10
+        },
+        {
+          "44": 2
+        }
+      ],
+      "vendor": "Buy yourself",
+      "installmentplan": "13 200 so'm/oyiga",
+      "previousprice": 160000,
+      "price": 100000,
+      "things": 140,
+      "count": 1
+    },
+    {
+      "id": 61,
+      "catigoris": "Poyabzallar",
+      "description": "Bolalar uchun to'rli krossovkalar",
+      "info": "Ushbu bolalar sport poyabzali kompaniyamiz tomonidan ishlab chiqarilgan va ushbu turdagi sport poyabzallarining afzalliklari quyidagilardan iborat: yengillik, yaxshi xavo o'tkazish qobiliyati,oyoqda yaxshi turishi va qulayligidir.",
+      "img": [
+        "https://images.uzum.uz/chh39bf5d7kom1tfpgi0/original.jpg",
+        "https://images.uzum.uz/chh39bdenntd8rf9f21g/original.jpg",
+        "https://images.uzum.uz/chk8bllenntd8rf9oplg/original.jpg",
+        "https://images.uzum.uz/chk8bmd6sfhndlbmi150/original.jpg",
+        "https://images.uzum.uz/chk8bmt40v9pplt24j8g/original.jpg",
+        "https://images.uzum.uz/chk8bl3ltlh4bk4jutlg/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 50
+      },
+      "sizes": [
+        {
+          "40": 12
+        },
+        {
+          "41": 15
+        },
+        {
+          "42": 51
+        },
+        {
+          "43": 10
+        },
+        {
+          "44": 2
+        }
+      ],
+      "vendor": "Baby обувь",
+      "installmentplan": "11 800 so'm/oyiga",
+      "previousprice": 299000,
+      "price": 99000,
+      "things": 140,
+      "count": 1
+    },
+    {
+      "id": 62,
+      "catigoris": "Poyabzallar",
+      "description": "Erkaklar mokasinalari",
+      "info": "100 foiz tabiiy teridan ishlangan mokasin.",
+      "img": [
+        "https://images.uzum.uz/cj1qrsv5d7kom1tkr7s0/original.jpg",
+        "https://images.uzum.uz/cj1qsttenntd8rfegocg/original.jpg",
+        "https://images.uzum.uz/cg8kh7vhj8j9g699vavg/original.jpg",
+        "https://images.uzum.uz/cg8kh7vhj8j9g699vb10/original.jpg",
+        "https://images.uzum.uz/cj1qqqf5d7kom1tkr7mg/original.jpg",
+        "https://images.uzum.uz/cg8kh57hgiov1qiehdi0/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 50
+      },
+      "sizes": [
+        {
+          "40": 12
+        },
+        {
+          "41": 15
+        },
+        {
+          "42": 51
+        },
+        {
+          "43": 10
+        },
+        {
+          "44": 2
+        }
+      ],
+      "vendor": "Yaxshi Shoes",
+      "installmentplan": "27 600 so'm/oyiga",
+      "previousprice": 329000,
+      "price": 230000,
+      "things": 80,
+      "count": 1
+    },
+    {
+      "id": 63,
+      "catigoris": "Poyabzallar",
+      "description": "Erkaklar yozgi krossovkalari to'rli",
+      "info": "By by Yourself kompaniyasining kattalar uchun yozgi krossovkalari dinamik turmush tarzi muxlislari kundalik poyabzal uchun qo'yadigan talablarga to'liq javob beradi. Etarlicha moslashuvchan va juda engil Croslite materialining tagligi to'liq qo'llab-quvvatlash va etarli tamponlama hosil qiladi, Matlite ustki qismi oyoqqa mukammal mos keladi va cho'zilgan yumshoq tagliklar sizni mutlaqo qulay va ishonchli his qilishingizga imkon beradi va hatto kun bo'yi harakatda bo'lganingizda ham charchamaysiz. By kattalar krossovkalarining yana bir xususiyati haqiqiy siluet edi, buning natijasida poyabzal sport uslubidagi tasvirga va tasodifiy uslubdagi shkafga mukammal mos keladi.",
+      "img": [
+        "https://images.uzum.uz/cfsase7hj8j9g698ct50/original.jpg",
+        "https://images.uzum.uz/cfsase7hgiov1qicud80/original.jpg",
+        "https://images.uzum.uz/cfsase7g49devoa92nk0/original.jpg",
+        "https://images.uzum.uz/cittgcf5d7kom1tkenpg/original.jpg",
+        "https://images.uzum.uz/cittgcl6sfhndlbqu360/original.jpg",
+        "https://images.uzum.uz/cittgirltlh4bk4ob9ig/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 50
+      },
+      "sizes": [
+        {
+          "40": 22
+        },
+        {
+          "41": 15
+        },
+        {
+          "42": 51
+        },
+        {
+          "43": 10
+        },
+        {
+          "44": 2
+        }
+      ],
+      "vendor": "Buy yourself",
+      "installmentplan": "11 760 so'm/oyiga",
+      "previousprice": 249000,
+      "price": 98000,
+      "things": 150,
+      "count": 1
+    },
+    {
+      "id": 64,
+      "catigoris": "Poyabzallar",
+      "description": "Ayollar krossovkalari yozgi",
+      "info": "Yozgi krassovkalar, a'lo sifat - arzon narxda",
+      "img": [
+        "https://images.uzum.uz/cg67bu7g49devoaaad6g/original.jpg",
+        "https://images.uzum.uz/cg67bu7hj8j9g699kte0/original.jpg",
+        "https://images.uzum.uz/cg67bufg49devoaaad7g/original.jpg",
+        "https://images.uzum.uz/cg67bu7hgiov1qie6p1g/original.jpg",
+        "https://images.uzum.uz/cg67bufhj8j9g699kteg/original.jpg",
+        "https://images.uzum.uz/cg67dmnhgiov1qie6pog/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 50
+      },
+      "sizes": [
+        {
+          "40": 12
+        },
+        {
+          "41": 155
+        },
+        {
+          "42": 51
+        },
+        {
+          "43": 10
+        },
+        {
+          "44": 2
+        }
+      ],
+      "vendor": "Buy yourself",
+      "installmentplan": "10 800 so'm/oyiga",
+      "previousprice": 150000,
+      "price": 84000,
+      "things": 190,
+      "count": 1
+    },
+    {
+      "id": 65,
+      "catigoris": "Poyabzallar",
+      "description": "Sandalilar poshnada ayollar uchun",
+      "info": "Sandal turi - «Gladiator» uslubida",
+      "img": [
+        "https://images.uzum.uz/ci4n58r6edfostigu27g/original.jpg",
+        "https://images.uzum.uz/ci4n58t40v9pplt3qv6g/original.jpg",
+        "https://images.uzum.uz/ci4n58r6edfostigu280/original.jpg",
+        "https://images.uzum.uz/ci4n55d6sfhndlbo8ca0/original.jpg",
+        "https://images.uzum.uz/ci4n5556sfhndlbo8c9g/original.jpg",
+        "https://images.uzum.uz/ci4n55l6sfhndlbo8cag/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 50
+      },
+      "sizes": [
+        {
+          "40": 12
+        },
+        {
+          "41": 15
+        },
+        {
+          "42": 51
+        },
+        {
+          "43": 10
+        },
+        {
+          "44": 2
+        }
+      ],
+      "vendor": "Buy yourself",
+      "installmentplan": "13 200 so'm/oyiga",
+      "previousprice": 160000,
+      "price": 100000,
+      "things": 140,
+      "count": 1
+    },
+    {
+      "id": 66,
+      "catigoris": "Poyabzallar",
+      "description": "Bolalar uchun to'rli krossovkalar",
+      "info": "Ushbu bolalar sport poyabzali kompaniyamiz tomonidan ishlab chiqarilgan va ushbu turdagi sport poyabzallarining afzalliklari quyidagilardan iborat: yengillik, yaxshi xavo o'tkazish qobiliyati,oyoqda yaxshi turishi va qulayligidir.",
+      "img": [
+        "https://images.uzum.uz/chh39bf5d7kom1tfpgi0/original.jpg",
+        "https://images.uzum.uz/chh39bdenntd8rf9f21g/original.jpg",
+        "https://images.uzum.uz/chk8bllenntd8rf9oplg/original.jpg",
+        "https://images.uzum.uz/chk8bmd6sfhndlbmi150/original.jpg",
+        "https://images.uzum.uz/chk8bmt40v9pplt24j8g/original.jpg",
+        "https://images.uzum.uz/chk8bl3ltlh4bk4jutlg/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 50
+      },
+      "sizes": [
+        {
+          "40": 12
+        },
+        {
+          "41": 15
+        },
+        {
+          "42": 51
+        },
+        {
+          "43": 10
+        },
+        {
+          "44": 2
+        }
+      ],
+      "vendor": "Baby обувь",
+      "installmentplan": "11 800 so'm/oyiga",
+      "previousprice": 299000,
+      "price": 99000,
+      "things": 140,
+      "count": 1
+    },
+    {
+      "id": 67,
+      "catigoris": "Poyabzallar",
+      "description": "Erkaklar mokasinalari",
+      "info": "100 foiz tabiiy teridan ishlangan mokasin.",
+      "img": [
+        "https://images.uzum.uz/cj1qrsv5d7kom1tkr7s0/original.jpg",
+        "https://images.uzum.uz/cj1qsttenntd8rfegocg/original.jpg",
+        "https://images.uzum.uz/cg8kh7vhj8j9g699vavg/original.jpg",
+        "https://images.uzum.uz/cg8kh7vhj8j9g699vb10/original.jpg",
+        "https://images.uzum.uz/cj1qqqf5d7kom1tkr7mg/original.jpg",
+        "https://images.uzum.uz/cg8kh57hgiov1qiehdi0/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 50
+      },
+      "sizes": [
+        {
+          "40": 12
+        },
+        {
+          "41": 15
+        },
+        {
+          "42": 51
+        },
+        {
+          "43": 10
+        },
+        {
+          "44": 2
+        }
+      ],
+      "vendor": "Yaxshi Shoes",
+      "installmentplan": "27 600 so'm/oyiga",
+      "previousprice": 329000,
+      "price": 230000,
+      "things": 80,
+      "count": 1
+    },
+    {
+      "id": 68,
+      "catigoris": "Aksessuarlar",
+      "description": "Kamar erkaklar uchun",
+      "info": "Erkaklar kamari. belbog'i zamonaviy ishbilarmon erkaklar uchun juda qulay va zaruriy aksessuar. Kamar har qanday shim turlariga juda mos keladi va estetik jihatdan jozibador moda ko'rinishini yaratadi. Har qanday vazn toifasiga mos kelishi uchun yetarlicha o'lchamli teshiklar bilan jihozlangan. Ushbu aksessuar egasining uslubi va xarakterini aks ettiradi, tasvirni yaratishda yakuniy nuqta bo'lib xizmat qiladi.",
+      "img": [
+        "https://images.uzum.uz/cfl73m5ennt3ujbs8ic0/original.jpg",
+        "https://images.uzum.uz/cfl73ovhgiopn8lc9ir0/original.jpg",
+        "https://images.uzum.uz/cfl73rvhgiopn8lc9irg/original.jpg",
+        "https://images.uzum.uz/cfl747tennt3ujbs8idg/original.jpg",
+        "https://images.uzum.uz/cfl74elennt3ujbs8ie0/original.jpg",
+        "https://images.uzum.uz/cfl74dh25kualhm8h47g/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 50
+      },
+      "type": [
+        {
+          "type": "Model 1"
+        },
+        {
+          "type": "Model 2"
+        }
+      ],
+      "vendor": "RZ Industry",
+      "installmentplan": "3 210 so'm/oyiga",
+      "previousprice": 50000,
+      "price": 26000,
+      "things": 70,
+      "count": 1
+    },
+    {
+      "id": 69,
+      "catigoris": "Aksessuarlar",
+      "description": "Erkaklar uchun charm sumka",
+      "info": "Erkaklar uchun charmli sumka.Bu sumka o`g`il bolalar va erkaklar uchun moljallangan bo`lib kundalik ishlar uchun va talabalik sumkasi sifatida ham foydalanish mumkun. Sumka matosi 80% charm bo`lib o`z holatini yo`qotmaydi. Sifati zo`r Xitoy mahsuloti.",
+      "img": [
+        "https://images.uzum.uz/ciohb9l6sfhndlbqbaeg/original.jpg",
+        "https://images.uzum.uz/ciohb9jltlh4bk4nomjg/original.jpg",
+        "https://images.uzum.uz/ciohb9l6sfhndlbqbae0/original.jpg",
+        "https://images.uzum.uz/ciohb9n5d7kom1tjs1v0/original.jpg",
+        "https://images.uzum.uz/ciohb9lenntd8rfdhqb0/original.jpg",
+        "https://images.uzum.uz/ciohb9l6sfhndlbqbaeg/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 23
+      },
+      "vendor": "Aksesuar.uz",
+      "installmentplan": "21 840 so'm/oyiga",
+      "previousprice": 280000,
+      "price": 182000,
+      "things": 38,
+      "count": 1
+    },
+    {
+      "id": 70,
+      "catigoris": "Aksessuarlar",
+      "description": "Maktab xalta, qizlar va o'g'il bolalar uchun xalta, ortopedik nafas oladigan orqa",
+      "info": "Yorqin bosma qizlar va o'g'il bolalar uchun maktab xalta. Portfelning o'ziga xos va zamonaviy dizayni, 4 ta cho'ntagi (2 ta yon tomoni, 1 ta old tomoni fermuar va 1 ta ichki qismi) va 1 ta asosiy bo'limi mavjud. Batafsil ma'lumot fotosuratda. Bizning maktab ryukzaklarimiz maktab o'quvchisi uchun eng zo'r tanlovdir! Ushbu ryukzak bola va ota-ona albatta qadrlaydigan ko'plab afzalliklarni birlashtiradi. Bizning ryukzakimizning engil va jozibali dizayni har qanday bolani xursand qiladi va yorqin dizayn tashqi ko'rinishga qo'shimcha lazzat bag'ishlaydi. Ammo tashqi ko'rinish faqat boshlanishdir! Bizning ryukzaklarimiz juda keng va engil bo'lib, bolalarga maktab, sport, bo'limlar va boshqa tadbirlar uchun zarur bo'lgan barcha narsalarni qulay tashish imkonini beradi. ",
+      "img": [
+        "https://images.uzum.uz/cieo2nv5d7kom1tisb90/original.jpg",
+        "https://images.uzum.uz/cieo2lr6edfostii170g/original.jpg",
+        "https://images.uzum.uz/cieo2n56sfhndlbpbi7g/original.jpg",
+        "https://images.uzum.uz/cieo09bltlh4bk4moqi0/original.jpg",
+        "https://images.uzum.uz/cieo0atenntd8rfchtdg/original.jpg",
+        "https://images.uzum.uz/cieo0bjltlh4bk4moqj0/original.jpg"
+      ],
+      "stars": {
+        "star": 4,
+        "countstarts": 23
+      },
+      "vendor": "Школьники",
+      "installmentplan": "20 400 so'm/oyiga",
+      "previousprice": 300000,
+      "price": 170000,
+      "things": 28,
+      "count": 1
+    },
+    {
+      "id": 71,
+      "catigoris": "Aksessuarlar",
+      "description": "Uzuk Arabcha yozuvli Tavxid Shahodat Kalimasi Tavxid surali uzuk",
+      "info": "Калимаи шаҳодат (гувоҳлик калимаси, иқрорлик калимаси) أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ.«Ашҳаду аллаа илааҳа иллаллоҳу ва ашҳаду анна Муҳаммадан ъабдуҳу ва Росуулуҳ».Аллоҳдан ўзга илоҳ йўқлигига ва Муҳаммад Аллоҳнинг бандаси ва Расули эканига гувоҳлик бераман.",
+      "img": [
+        "https://images.uzum.uz/chcdd4gbv8as0acrd9e0/original.jpg",
+        "https://images.uzum.uz/chcdd4hmaogscco852lg/original.jpg",
+        "https://images.uzum.uz/chd1u47hj8j9aj19kvhg/original.jpg",
+        "https://images.uzum.uz/chd1u473jia9r083jgrg/original.jpg",
+        "https://images.uzum.uz/chd1u473jia9r083jgr0/original.jpg",
+        "https://images.uzum.uz/cjbmv9rk9fq5pecv5ib0/original.jpg "
+      ],
+      "stars": {
+        "star": 4,
+        "countstarts": 23
+      },
+      "vendor": "BEAUTY BAG",
+      "installmentplan": "1 800 so'm/oyiga",
+      "previousprice": 65000,
+      "price": 9000,
+      "things": 299,
+      "count": 1
+    },
+    {
+      "id": 72,
+      "catigoris": "Go'zallik",
+      "description": "Matli yuz salfetkalari Rorec, yashil choy ekstrakti bilan, 100 dona",
+      "info": "Yuz salfetkalari Rorec changni yutish brendlari teringizga, ayniqsa issiq havoda ajoyib yordam beradi. Salfetkalarda tinchlantiruvchi ta'sirga ega yashil choy mavjud. Matli salfetkalar barcha ortiqcha yog'larni mukammal singdiradi, bu sizning teringizga tazelik beradi va matlik beradi.Rorec salfetkalarining katta afzalligi ularning sifati. Qo'llash kerak bo'lganda ular yirtilmaydi yoki teringizga yopishmaydi.Qulay qadoqlash va o'lchamlari tufayli ularni har qanday sumkaga, hatto eng kichigiga ham qo'yish mumkin. Salfetkalar har doim ajoyib ko'rinishni xohlaydigan qizlar uchun mo'ljallangan.",
+      "img": [
+        "https://images.uzum.uz/cchg2u35a95unf11mc1g/original.jpg",
+        "https://images.uzum.uz/cchg2u35a95unf11mc20/original.jpg",
+        "https://images.uzum.uz/cchg2u3b3ho5lmupjolg/original.jpg",
+        "https://images.uzum.uz/cchg2u70tgqvlm57epm0/original.jpg"
+      ],
+      "stars": {
+        "star": 4,
+        "countstarts": 23
+      },
+      "vendor": "Asia Cosmetic",
+      "installmentplan": "2 760 so'm/oyiga",
+      "previousprice": 32000,
+      "price": 23000,
+      "things": 427,
+      "count": 1
+    },
+    {
+      "id": 73,
+      "catigoris": "Go'zallik",
+      "description": "Shampun Wash&Go, 360 ml",
+      "info": "Wash&Go kepekka qarshi shampun 360 ml sochlaringizga muloyimlik bilan g'amxo'rlik qiladi, ularga hayotiy yorqinlik va yorqinlik beradi!Maxsus formula soch va bosh terisini muloyimlik bilan tozalaydi, quruq va yog'li kepekka qarshi kurashishga yordam beradi.Zamonaviy formulasi tufayli WASH & GO shampunlari sochlarga muloyimlik bilan g'amxo'rlik qiladi va ularga chiroyli ko'rinish beradi. Yillar davomida W&G formulasi doimiy ravishda takomillashtirildi - minimal harakat bilan maksimal natijalarga erishish imkonini beruvchi ingredientlarning yangi kombinatsiyasi mavjud.",
+      "img": [
+        "https://images.uzum.uz/cj5483jltlh4bk4p1dq0/original.jpg",
+        "https://images.uzum.uz/cj5483l40v9pplt768d0/original.jpg",
+        "https://images.uzum.uz/cj5483l6sfhndlbrk3ig/original.jpg",
+        "https://images.uzum.uz/cj5483l40v9pplt768dg/original.jpg"
+      ],
+      "stars": {
+        "star": 4,
+        "countstarts": 23
+      },
+      "vendor": "Wash&Go",
+      "installmentplan": "2 400 so'm/oyiga",
+      "previousprice": 30000,
+      "price": 20000,
+      "things": 4200,
+      "count": 1
+    },
+    {
+      "id": 74,
+      "catigoris": "Go'zallik",
+      "description": "Xushbo'ylangan suv ToomFord erkaklar uchun, 100 ml, dezdorant bonus",
+      "info": "Uning jozibasi, ishonchi va benuqson uslubi tufayli u hamma narsani qila oladi. Engil parfyum faqat uning qadr-qimmatini ta'kidlaydi. Barkamol, hayratlanarli va tengsiz Tumford xushbo'y kompozitsiyasi yumshoq va iliq yog'och notalaridan to'qilgan, uning jozibali tabiati achchiq aksanlar bilan ta'kidlangan.",
+      "img": [
+        "https://images.uzum.uz/cet4vfgv1htd23akfnkg/original.jpg",
+        "https://images.uzum.uz/cet4vfgv1htd23akfnl0/original.jpg ",
+        "https://images.uzum.uz/cet4vfgl08k0o9qhdmp0/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 23
+      },
+      "vendor": "Wash&Go",
+      "installmentplan": "23 400 so'm/oyiga",
+      "previousprice": 220000,
+      "price": 195000,
+      "things": 3,
+      "count": 1
+    },
+    {
+      "id": 75,
+      "catigoris": "Go'zallik",
+      "description": "Xushbo'ylangan suv erkaklar uchun Excite by Dima Bilan, dengizning yangiligi, 75 ml",
+      "info": "Dima Bilanning Perfume Excite - tetiklantiruvchi va nihoyatda chuqur xushbo'y hid bo'lib, yorilib ketadi, yuraklarni zabt etadi va quvonchli his-tuyg'ularni uyg'otadi. O'zingizni chuqur, shahvoniy erkaklik va o'zgarmas temperament to'lqinlariga botiring. Bergamot, qovun va shuvoqning yuqori notalari energiya va tetiklik bilan to'ldiradi, ekzotik choy va shaffof ozon akordasi esa xushbo'y hidga shahvoniylik beradi va ehtirosni uyg'otadi. Atirning mox, jozibali sadr va nozik mushki izlari tuyg'ularning tabiiy kuchini ta'kidlaydi. Shaffof shishadan tayyorlangan shisha dizayni dengizning cheksizligi va go'zalligidan ilhomlangan.",
+      "img": [
+        "https://images.uzum.uz/cet4vfgv1htd23akfnkg/original.jpg",
+        "https://images.uzum.uz/cet4vfgv1htd23akfnl0/original.jpg ",
+        "https://images.uzum.uz/cet4vfgl08k0o9qhdmp0/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 23
+      },
+      "vendor": "CARAMBA",
+      "installmentplan": "18 000 so'm/oyiga",
+      "previousprice": 300000,
+      "price": 150000,
+      "things": 3,
+      "count": 1
+    },
+    {
+      "id": 76,
+      "catigoris": "Salomatlik",
+      "description": "Tana, orqa, oyoqlar uchun universal EMS massajchisi",
+      "info": "Mushaklarni mustahkamlash va tasalli beruvchi massaj uchun qulay va arzon yechim qidiryapsizmi? Tana mushaklari stimulyatori bilan tanishish - sport zaliga bormasdan ham mushaklaringizni mashq qilish va yoqimli his-tuyg'ularni olishning eng zo'r usuli.Mushak stimulyatori mushaklarni kuchaytirish va massajni ta'minlash uchun mo'ljallangan, ayniqsa, noqulaylik paydo bo'lgan bo'yin va orqa sohalarda. U ishlayotganda, siz o'z biznesingizni hech qanday noqulayliksiz bemalol davom ettirishingiz mumkin. Natijaga mushaklarning qisqarishini rag'batlantiradigan elektr impulslari orqali erishiladi.",
+      "img": [
+        "https://images.uzum.uz/cj2uvev5d7kom1tku1a0/original.jpg ",
+        "https://images.uzum.uz/cj2uvg36edfostik2rk0/original.jpg ",
+        "https://images.uzum.uz/cj2uvg75d7kom1tku1ag/original.jpg",
+        "https://images.uzum.uz/chq9k7l6sfhndlbn5e50/original.jpg",
+        "https://images.uzum.uz/chq9k8f5d7kom1tgmda0/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 73
+      },
+      "vendor": "Домашний Уголок",
+      "installmentplan": "3 600 so'm/oyiga",
+      "previousprice": 250000,
+      "price": 28800,
+      "things": 97,
+      "count": 1
+    },
+    {
+      "id": 77,
+      "catigoris": "Salomatlik",
+      "description": "Umurtqa pog'onasini tekislash uchun ortopedik korset, unisex",
+      "info": "Orqa umurtqani tekislovchi korset - bu umurtqa pog'onasini butunlay tekislovchi, foydalanishga qulay bo'lgan eng samarali vosita.",
+      "img": [
+        "https://images.uzum.uz/chmvdu56sfhndlbmqt40/original.jpg",
+        "https://images.uzum.uz/chmv08jltlh4bk4k7rqg/original.jpg ",
+        "https://images.uzum.uz/chmv0ar6edfostifh240/original.jpg"
+      ],
+      "stars": {
+        "star": 4,
+        "countstarts": 73
+      },
+      "vendor": "RIZO",
+      "installmentplan": "13 800 so'm/oyiga",
+      "previousprice": 120000,
+      "price": 115000,
+      "things": 20,
+      "count": 1
+    },
+    {
+      "id": 78,
+      "catigoris": "Salomatlik",
+      "description": "Holatni tuzatuvchi, ortopedik korset",
+      "info": "Bu orqa tomon uchun korset bo'lib, u sizni egilishga imkon bermaydi va asta-sekin orqangizni to'g'ri saqlashga o'rgatadi. Kuniga kamida ikki soat korset kiyish kelajakda skolyoz (egrilik) yo'qligini kafolatlaydi.Axir, gavdaning egriligi uyda, ishda, mashinada va hokazolarda harakatsiz turmush tarzi tufayli taniqli patologiya hisoblanadi.",
+      "img": [
+        "https://images.uzum.uz/ch3q4fnhj8j9g69eenu0/original.jpg",
+        "https://images.uzum.uz/ch12cqr57mg9720form0/original.jpg ",
+        "https://images.uzum.uz/ch12cqvg49devoaemeq0/original.jpg",
+        "https://images.uzum.uz/cgnrn9ng49devoacv4ag/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 73
+      },
+      "vendor": "Hummble",
+      "installmentplan": "15 200 so'm/oyiga",
+      "previousprice": 230000,
+      "price": 126000,
+      "things": 80,
+      "count": 1
+    },
+    {
+      "id": 79,
+      "catigoris": "Uyrozgor",
+      "description": "Guruch, sabzavotlar, mevalar, mevalarni yuvish uchun plastik idish",
+      "info": "Guruch va sabzavotlarni yuvish uchun qulay va amaliy idishlarimiz bilan tanishing! Ushbu innovatsion yordamchi yordamida siz oziq-ovqat mahsulotlarini pishirishdan oldin ularni toza va to'yimli holda osongina yuvishingiz mumkin. Maxsus ishlab chiqilgan teshiklar guruch, sabzavot va mevalarni samarali yuvish, ortiqcha axloqsizlik va axloqsizlikdan xalos bo'lish imkonini beradi. Qulay tutqichlar qulay foydalanishni ta'minlaydi va bardoshli material idishlarni bardoshli va aşınmaya bardoshli qiladi. Guruch va sabzavotlarni yuvish uchun idish - tovoqlarimiz-oshxonangizda bo'lishi kerak bo'lgan aksessuar tufayli benuqson toza ingredientlardan boshlab mazali va sog'lom taomlarni tayyorlang!",
+      "img": [
+        "https://images.uzum.uz/cj2asctenntd8rfehs60/original.jpg",
+        "https://images.uzum.uz/cj2d8fl6sfhndlbrbuh0/original.jpg  ",
+        "https://images.uzum.uz/cj2aspbltlh4bk4ootf0/original.jpg",
+        "https://images.uzum.uz/cj2asld40v9pplt6tp1g/original.jpg"
+      ],
+      "stars": {
+        "star": 3,
+        "countstarts": 2
+      },
+      "vendor": "Faqat Yaxshi Kayfiyat",
+      "installmentplan": "2 600 so'm/oyiga",
+      "previousprice": 23000,
+      "price": 22000,
+      "things": 20,
+      "count": 1
+    },
+    {
+      "id": 80,
+      "catigoris": "Uyrozgor",
+      "description": "Manti qazqon alyuminiy 8/9 litr, 4 qavatli, barcha turdagi plitalar uchun",
+      "info": "Manti qozon manti pishirishda uchun eng zarur oshxona jixozidir. 4 ta qavatli, 8-9 litrli alyuminiy manti qozon mazali va sog'lom ovqat tayyorlash uchun ajoyib tanlovdir. Bu sizga barcha foydali vitaminlar va minerallarni saqlab, ovqatlarni bug'da pishirish imkonini beradi. Ushbu manti qozon juda katta hajmga ega, shuning uchun siz bir vaqtning o'zida ko'p miqdordagi ovqatni tayyorlashingiz mumkin.",
+      "img": [
+        "https://images.uzum.uz/ciikl8denntd8rfcu51g/original.jpg",
+        "https://images.uzum.uz/ciikl8denntd8rfcu51g/original.jpg",
+        "https://images.uzum.uz/cfnjjefhgiopn8lch6ag/original.jpg",
+        "https://images.uzum.uz/cfnjje925kualhm8oof0/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 21
+      },
+      "vendor": "TopSellers",
+      "installmentplan": "34 600 so'm/oyiga",
+      "previousprice": 400000,
+      "price": 289000,
+      "things": 20,
+      "count": 1
+    },
+    {
+      "id": 81,
+      "catigoris": "Uyrozgor",
+      "description": "Vakuumli shaffof valfli sumka, saqlash sumkasi, qayta foydalanish mumkin",
+      "info": "Saqlash sumkalari kiyim-kechak, yostiq, adyol va to'ldirilgan hayvonlarni havo o'tkazmaydigan qilib o'rash uchun mo'ljallangan. Saqlash sumkasi shaffof materialga ega, bu tarkibni osongina yo'naltirishga va kerakli narsani tezda topishga imkon beradi. Qayta foydalanish mumkin bo'lgan zich sumkalar sizning shkafingizdagi bo'sh joyning 80 foizini tejaydi va uyda, sayohat paytida va ko'chib o'tishda narsalarni saqlash uchun ajralmas bo'ladi. Xaltalar narsalarni namlik, chang, mog'or, bakteriyalardan himoya qiladi, chunki ular namlikka chidamli va havo o'tkazmaydigan.",
+      "img": [
+        "https://images.uzum.uz/cekn378v1htd23ajjmvg/original.jpg",
+        "https://images.uzum.uz/cekoie8l08kcldtp8scg/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 21
+      },
+      "vendor": "TopSellers",
+      "installmentplan": "4 800 so'm/oyiga",
+      "previousprice": 70000,
+      "price": 29000,
+      "things": 200,
+      "count": 1
+    },
+    {
+      "id": 82,
+      "catigoris": "Uydan-Chiqmasdan",
+      "description": "Nam salfetkalar bolalar uchun AURA Ultra Comfort, 100 dona, 1+1",
+      "info": "Nam salfetkalar bolalar uchun AURA Ultra Comfort, 100 dona, 1+1",
+      "img": [
+        "https://images.uzum.uz/ci45jbjltlh4bk4ljom0/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 21
+      },
+      "vendor": "AURA",
+      "installmentplan": "2 700 so'm/oyiga",
+      "previousprice": 36000,
+      "price": 23000,
+      "things": 900,
+      "count": 1
+    },
+    {
+      "id": 83,
+      "catigoris": "Uydan-Chiqmasdan",
+      "description": "Kungaboqar yog'i Sofia, tozalangan va deodorizatsiyalangan, 1 litr",
+      "info": "Tozalangan va deodorizatsiyalangan kungaboqar yog'i qovurish va pishirish uchun mos. U shaffof, och oltin rangga ega, deyarli ta'msiz va hidsiz va bundan tashqari, u ko'piklanmaydi. Saqlansa tozalangan yog'da, cho'kma hosil bo'lmaydi.Tarkibi: tozalangan deodorizatsiyalangan kungaboqar yog'i",
+      "img": [
+        "https://images.uzum.uz/cj544rt40v9pplt767jg/original.jpg",
+        "https://images.uzum.uz/cj544rl6sfhndlbrk2kg/original.jpg",
+        "https://images.uzum.uz/cj544rn5d7kom1tl4t70/original.jpg",
+        "https://images.uzum.uz/cj544rlenntd8rfeqd20/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 21
+      },
+      "vendor": "Sofia Oil",
+      "installmentplan": "1 680 so'm/oyiga",
+      "previousprice": 19000,
+      "price": 14000,
+      "things": 2,
+      "count": 1
+    },
+    {
+      "id": 84,
+      "catigoris": "Uydan-Chiqmasdan",
+      "description": "Kungaboqar yog'i Sofia, tozalangan va deodorizatsiyalangan, 1 litr",
+      "info": "Tozalangan va deodorizatsiyalangan kungaboqar yog'i qovurish va pishirish uchun mos. U shaffof, och oltin rangga ega, deyarli ta'msiz va hidsiz va bundan tashqari, u ko'piklanmaydi. Saqlansa tozalangan yog'da, cho'kma hosil bo'lmaydi.Tarkibi: tozalangan deodorizatsiyalangan kungaboqar yog'i",
+      "img": [
+        "https://images.uzum.uz/cj544rt40v9pplt767jg/original.jpg",
+        "https://images.uzum.uz/cj544rl6sfhndlbrk2kg/original.jpg",
+        "https://images.uzum.uz/cj544rn5d7kom1tl4t70/original.jpg",
+        "https://images.uzum.uz/cj544rlenntd8rfeqd20/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 21
+      },
+      "vendor": "Sofia Oil",
+      "installmentplan": "1 680 so'm/oyiga",
+      "previousprice": 19000,
+      "price": 14000,
+      "things": 2,
+      "count": 1
+    },
+    {
+      "id": 85,
+      "catigoris": "Uydan-Chiqmasdan",
+      "description": "Qo'llar uchun antibakterial suyuq sovun, 500 ml",
+      "info": "Oila Tanlovi antibakterial suyuq sovun butun oila salomatligiga g'amxo'rlik qilishning ishonchli usuli hisoblanadi. Maxsus ishlab chiqarilgan sovun bakteriyalar va mikroblarni samarali ravishda yo'q qiladi va qo'llaringiz uchun mukammal gigienani ta'minlaydi. Sovunni qo'llash oson, boy ko'pik hosil qiladi va tez yuviladi. yoqimli hid qoldirib, suv bilan o'chiring.Balanslangan pH quruqlik va tirnash xususiyati oldini oladi, sovun terini quritmaydi yoki shikastlamaydi, shuning uchun tez-tez qo'l yuvish uchun idealdir.",
+      "img": [
+        "https://images.uzum.uz/cjdh22sjvf2mtfam5j30/original.jpg",
+        "https://images.uzum.uz/cjdh45kvutv8a2v9vgsg/original.jpg",
+        "https://images.uzum.uz/cj8u1urk9fq5pecukja0/original.jpg"
+      ],
+      "stars": {
+        "star": 3,
+        "countstarts": 21
+      },
+      "vendor": "Oila Tanlovi",
+      "installmentplan": "1 080 so'm/oyiga",
+      "previousprice": 12000,
+      "price": 9000,
+      "things": 4200,
+      "count": 1
+    },
+    {
+      "id": 86,
+      "catigoris": "Halol muddatli to'lov",
+      "description": " Noutbuk Lenovo V15 Intel Celeron N4020 DDR4 4 GB, 256 GB SSD, Iron Grey, 15.6",
+      "info": "Lenovo V15 - mustahkam va ixcham noutbuk bo'lib, kundalik ishlar va ofis ishlari uchun ideal. U kuchli Intel Celeron N4020 protsessori bilan jihozlangan bo'lib, u turli vazifalarni bajarishda yuqori unumdorlik va samaradorlikni ta'minlaydi.Yorqin 15,6 dyuymli HD ekran bilan kontentni ko'rish, hujjatlar ustida ishlash yoki onlayn video qo'ng'iroqlarni amalga oshirishda aniq tasvirlar va jonli ranglardan bahramand bo'lishingiz mumkin. Yilni dizayni va “Temir kulrang” rangi daftarga zamonaviy va zamonaviy ko‘rinish beradi.4 Gb DDR4 operativ xotira ilovalar o‘rtasida almashinishda tizimning muammosiz va tezkor ishlashini ta’minlaydi, 256 Gb SSD esa fayllar, fotosuratlar, videolar va boshqalar uchun ko‘plab saqlash joylarini ta’minlaydi.Lenovo V15 qulay va tez yozish uchun to'liq klaviatura bilan jihozlangan. USB interfeysi turli qurilmalarni ulashni osonlashtiradi, HDMI porti esa noutbukni tashqi monitor yoki televizorga ulash imkonini beradi.Wi-Fi va Bluetooth simsiz ulanishi tufayli siz internetga ulanib qolishingiz va simlarsiz boshqa qurilmalar bilan maʼlumotlarni almashishingiz mumkin.Intel Celeron N4020 o'rnatilgan Lenovo V15 noutbuki ish, o'qish yoki o'yin uchun oddiy, ammo kuchli noutbuk izlayotganlar uchun mustahkam yechimdir. U funksionallik, zamonaviy dizayn va mukammal sifatni birlashtirib, uni kundalik foydalanish uchun ajoyib tanlovga aylantiradi.",
+      "img": [
+        "https://images.uzum.uz/cjadbikjvf2nv3nn38g0/t_product_540_high.jpg#1691839204679",
+        "https://images.uzum.uz/cj1pm1f5d7kom1tkr03g/original.jpg",
+        "https://images.uzum.uz/cj1pm0l40v9pplt6sdeg/original.jpg",
+        "https://images.uzum.uz/cj1pjl540v9pplt6scqg/original.jpg",
+        "https://images.uzum.uz/cj1pm1f5d7kom1tkr040/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 26
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "294000 so'm/oyiga",
+      "previousprice": 2945000,
+      "price": 2450000,
+      "things": 1,
+      "count": 1
+    },
+    {
+      "id": 87,
+      "catigoris": "Halol muddatli to'lov",
+      "description": " Simsiz minigarnituralar",
+      "info": "Qulog'ingiz shakli va quloqchinlarning joylashuvi asosida ovozingizni doimiy ravishda optimallashtiradigan faol shovqinni bekor qilish texnologiyasiga ega noyob minigarnituralar. Ular tashqi shovqinni mukammal tarzda o'chiradi, shuning uchun siz o'zingizni musiqaga to'liq sho'ng'ishingiz mumkin. Tashqi mikrofon tashqi shovqinni qabul qiladi.",
+      "img": [
+        "https://images.uzum.uz/cibd3vv5d7kom1tihq40/t_product_540_high.jpg#1691864639215",
+        "https://images.uzum.uz/cibd3vtenntd8rfc7a30/original.jpg",
+        "https://images.uzum.uz/cibd3vrltlh4bk4me1k0/original.jpg",
+        "https://images.uzum.uz/chgdv2rltlh4bk4jid00/original.jpg",
+        "https://images.uzum.uz/cibd3vv5d7kom1tihq40/original.jpg"
+      ],
+      "stars": {
+        "star": 3,
+        "countstarts": 5
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "43800 so'm/oyiga",
+      "previousprice": 700000,
+      "price": 365000,
+      "things": 12,
+      "count": 1
+    },
+    {
+      "id": 88,
+      "catigoris": "Halol muddatli to'lov",
+      "description": "Gaz plitasi GEFEST 6300-02 0347",
+      "info": "Ishlab chiqaruvchi Gefest x`Plitalar turi Gaz Qoplama Emal Idishlarni saqlash uchun quti Mavjud Boshqarish turi Mexanik Pishirish yuzasi Pishirish sirt turi Gaz Panjara materiali Chugun Konforkalar soni 4 Pech shkafi Javonli pech turi Gaz Pechning hajmi 52 Litr Pechni yoritish Mavjud Gril Mavjud",
+      "img": [
+        "https://images.uzum.uz/ch7o9jt01ighkhg8t960/original.jpg",
+        "https://images.uzum.uz/ch7o9jt01ighkhg8t960/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 50
+      },
+      "vendor": "Домашний Очаг",
+      "installmentplan": "550 400 so'm/oyiga",
+      "previousprice": 4900000,
+      "price": 4600000,
+      "things": 49,
+      "count": 1
+    },
+    {
+      "id": 89,
+      "catigoris": "Halol muddatli to'lov",
+      "description": "Gaz-elektr Plita Biryusa N60GE07W",
+      "info": "Koson rangi: oq Gorelkalar soni: 3 (gaz) + 1 (elektr) Avtomatik elektr yoqish Mexanik taymer Metall panjara Gazni boshqarish O‘lchamlari (sm): 85x60x60",
+      "img": [
+        "https://images.uzum.uz/cd98v4v0tgqvlm58ulm0/original.jpg",
+        "https://images.uzum.uz/cd98v4v0tgqvlm58ulm0/original.jpg"
+      ],
+      "stars": {
+        "star": 4,
+        "countstarts": 3
+      },
+      "vendor": "Домашний Очаг",
+      "installmentplan": "403 400 so'm/oyiga",
+      "previousprice": 3865000,
+      "price": 3365000,
+      "things": 4,
+      "count": 1
+    },
+    {
+      "id": 90,
+      "catigoris": "Halol muddatli to'lov",
+      "description": " Noutbuk Lenovo V15 Intel Celeron N4020 DDR4 4 GB, 256 GB SSD, Iron Grey, 15.6",
+      "info": "Lenovo V15 - mustahkam va ixcham noutbuk bo'lib, kundalik ishlar va ofis ishlari uchun ideal. U kuchli Intel Celeron N4020 protsessori bilan jihozlangan bo'lib, u turli vazifalarni bajarishda yuqori unumdorlik va samaradorlikni ta'minlaydi.Yorqin 15,6 dyuymli HD ekran bilan kontentni ko'rish, hujjatlar ustida ishlash yoki onlayn video qo'ng'iroqlarni amalga oshirishda aniq tasvirlar va jonli ranglardan bahramand bo'lishingiz mumkin. Yilni dizayni va “Temir kulrang” rangi daftarga zamonaviy va zamonaviy ko‘rinish beradi.4 Gb DDR4 operativ xotira ilovalar o‘rtasida almashinishda tizimning muammosiz va tezkor ishlashini ta’minlaydi, 256 Gb SSD esa fayllar, fotosuratlar, videolar va boshqalar uchun ko‘plab saqlash joylarini ta’minlaydi.Lenovo V15 qulay va tez yozish uchun to'liq klaviatura bilan jihozlangan. USB interfeysi turli qurilmalarni ulashni osonlashtiradi, HDMI porti esa noutbukni tashqi monitor yoki televizorga ulash imkonini beradi.Wi-Fi va Bluetooth simsiz ulanishi tufayli siz internetga ulanib qolishingiz va simlarsiz boshqa qurilmalar bilan maʼlumotlarni almashishingiz mumkin.Intel Celeron N4020 o'rnatilgan Lenovo V15 noutbuki ish, o'qish yoki o'yin uchun oddiy, ammo kuchli noutbuk izlayotganlar uchun mustahkam yechimdir. U funksionallik, zamonaviy dizayn va mukammal sifatni birlashtirib, uni kundalik foydalanish uchun ajoyib tanlovga aylantiradi.",
+      "img": [
+        "https://images.uzum.uz/cjadbikjvf2nv3nn38g0/t_product_540_high.jpg#1691839204679",
+        "https://images.uzum.uz/cj1pm1f5d7kom1tkr03g/original.jpg",
+        "https://images.uzum.uz/cj1pm0l40v9pplt6sdeg/original.jpg",
+        "https://images.uzum.uz/cj1pjl540v9pplt6scqg/original.jpg",
+        "https://images.uzum.uz/cj1pm1f5d7kom1tkr040/original.jpg"
+      ],
+      "stars": {
+        "star": 5,
+        "countstarts": 26
+      },
+      "vendor": "Техносфера",
+      "installmentplan": "294000 so'm/oyiga",
+      "previousprice": 2945000,
+      "price": 2450000,
+      "things": 1,
+      "count": 1
+    }
+  ]
+}

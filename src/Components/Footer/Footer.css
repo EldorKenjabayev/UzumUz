@@ -1,0 +1,20 @@
+li{
+    list-style: none;
+    font-size: 16px;
+    font-style: inherit;
+    line-height: 40px;
+    color:#4D4E59;
+}
+.footer-line {
+    width: 100%;
+    height: 1px;
+    background-color: #ccc; 
+    margin: 20px 0; 
+  }
+
+@media screen and (max-width:1213px) {
+    .flexFooter{
+        display: flex;
+        gap: 4vw;
+    }
+}

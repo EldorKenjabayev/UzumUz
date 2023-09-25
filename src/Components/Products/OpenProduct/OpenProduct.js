@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import DemoCarousel from "../../Corusel/DemoCarousel ";
 import { Box, Button } from "@mui/material";
 import "./OpenProducts.css";
@@ -9,10 +9,22 @@ import InfoIcon from "@mui/icons-material/Info";
 import { Link } from "react-router-dom";
 import ChevronRightIcon from "@mui/icons-material/ChevronRight";
 import CoruselOpenProduct from "./CoruselOpenProduct";
+import axios from "axios";
+import { Api } from "../../../Api";
 export default function OpenProduct({ productInfo, setProductInfo }) {
+  const [openinfo, setOpenInfo] = useState([])
   const [quantity, setQuantity] = useState(1);
   const [infoandcomments, setInfoAndComments] = useState("Info");
-
+useEffect(()=>{
+  let openItemId = localStorage.getItem('OpenItem');
+  axios.get(`${Api}`).then((res)=>{
+    const fetcheData = res.data; 
+    const filtredData = fetcheData.filter((item) => item.id === openItemId)
+    setOpenInfo(filtredData)
+  })
+},[])
+console.log(openinfo);
+console.log(openinfo);
   const calculateTotal = () => {
     const total = productInfo.price * quantity;
     return total.toFixed(0);

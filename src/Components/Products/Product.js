@@ -158,6 +158,7 @@ export default function Product({ setProductInfo }) {
               onClick={() => {
                 openProduct(item);
                 setProductInfo(item);
+                localStorage.setItem('OpenItem', item.id)
               }}
             >
               {showSkeleton ? (

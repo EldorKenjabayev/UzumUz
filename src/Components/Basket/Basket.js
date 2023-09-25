@@ -13,21 +13,23 @@ export default function Basket() {
   const [tooltipStates, setTooltipStates] = useState({});
   const [totalAmount, setTotalAmount] = useState(0);
   useEffect(() => {
-    let BasketProducts = localStorage.getItem("cartItems");
-    setBasket(JSON.parse(BasketProducts));
-  }, []);
-  useEffect(() => {
-    let BasketProducts = localStorage.getItem("cartItems");
-    const initialTooltipStates = {};
+    const BasketProducts = localStorage.getItem("cartItems");
+
     if (BasketProducts) {
       const parsedBasket = JSON.parse(BasketProducts);
+      setBasket(parsedBasket);
+      setTotalAmount(calculateTotalAmount());
+      const initialTooltipStates = {};
       parsedBasket.forEach((item) => {
         initialTooltipStates[item.id] = false;
       });
-      setBasket(parsedBasket);
       setTooltipStates(initialTooltipStates);
+    } else {
+      setBasket([]);
+      setTotalAmount(0);
     }
   }, []);
+
   const calculateTotalAmount = () => {
     let total = 0;
     if (basket && basket.length > 0) {
@@ -40,25 +42,41 @@ export default function Basket() {
   useEffect(() => {
     let BasketProducts = localStorage.getItem("cartItems");
     setBasket(JSON.parse(BasketProducts));
-    setTotalAmount(calculateTotalAmount()); 
+    setTotalAmount(calculateTotalAmount());
   }, []);
   useEffect(() => {
     setTotalAmount(calculateTotalAmount());
-  }, [basket]); 
-  
-    
+  }, [basket]);
 
   const handleDecrease = (item) => {
     if (item.count > 1) {
-      item.count -= 1;
+      const updatedBasket = basket.map((basketItem) => {
+        if (basketItem.id === item.id) {
+          return {
+            ...basketItem,
+            count: basketItem.count - 1,
+          };
+        }
+        return basketItem;
+      });
+
+      setBasket(updatedBasket);
 
       setTooltipStates((prevState) => ({
         ...prevState,
-        [item.id]: false, // Закрыть Tooltip при уменьшении
+        [item.id]: false,
       }));
     }
   };
-
+  const totalSavings = basket
+  ? basket.reduce((total, item) => {
+      if (item && !isNaN(item.previousprice)) {
+        const savingsPerItem = (item.previousprice - item.price) * item.count;
+        return total + savingsPerItem;
+      }
+      return total;
+    }, 0)
+  : 0;
   const handleIncrease = (item) => {
     if (item.count < item.things) {
       const updatedBasket = basket.map((basketItem) => {
@@ -101,12 +119,15 @@ export default function Basket() {
     setBasket(updatedBasket);
   };
 
-  const totalPreviousPrice = basket.reduce((total, item) => {
-    if (!isNaN(item.previousprice)) {
-      return total + item.previousprice * item.count;
-    }
-    return total;
-  }, 0);
+  const totalPreviousPrice = basket
+  ? basket.reduce((total, item) => {
+      if (item && !isNaN(item.previousprice)) {
+        return total + item.previousprice * item.count;
+      }
+      return total;
+    }, 0)
+  : 0;
+
   return (
     <Box>
       {basket == null || basket.length === 0 ? (
@@ -137,16 +158,22 @@ export default function Basket() {
                 width: "25%",
               }}
             />
-            <h1 className="TitleBasketEmptyH1" style={{
-              textAlign:'center'
-            }}>Savatda hozircha mahsulot yoʻq</h1>
-            <h3 className="TitleBasketEmptyH3"
+            <h1
+              className="TitleBasketEmptyH1"
+              style={{
+                textAlign: "center",
+              }}
+            >
+              Savatda hozircha mahsulot yoʻq
+            </h1>
+            <h3
+              className="TitleBasketEmptyH3"
               style={{
                 position: "relative",
                 top: "-14px",
                 color: "#636363",
                 fontWeight: "400",
-                textAlign:'center'
+                textAlign: "center",
               }}
             >
               Bosh sahifadagi to’plamlardan boshlang yoki kerakli mahsulотni
@@ -155,7 +182,7 @@ export default function Basket() {
             <Box>
               <Link to={"/"}>
                 <button
-                className="BtnCardempty"
+                  className="BtnCardempty"
                   style={{
                     borderRadius: "10px",
                     fontFamily: "Inter",
@@ -279,7 +306,7 @@ export default function Basket() {
                           gap: "1vw",
                           alignItems: "center",
                           border: ".5px solid #cccc",
-                     
+
                           borderRadius: "7px",
                           height: "40px",
                           padding: "0px 10px",
@@ -437,9 +464,13 @@ export default function Basket() {
                         color: "#00C853",
                         fontSize: "13px",
                       }}
-                    >{`Tejavongiz: ${(totalPreviousPrice - totalAmount)
-                      .toString()
-                      .replace(/\B(?=(\d{3})+(?!\d))/g, " ")} so'm`}</p>
+                    >{`Tejavongiz: ${
+                      totalSavings > 0
+                        ? totalSavings
+                            .toString()
+                            .replace(/\B(?=(\d{3})+(?!\d))/g, " ") + " so'm"
+                        : "Narx korsatilmagan"
+                    }`}</p>
                   </Box>
                 </Box>
                 <Box

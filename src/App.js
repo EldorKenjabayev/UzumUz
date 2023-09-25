@@ -51,7 +51,7 @@ export default function App() {
             borderRadius: "50%",
             cursor: "pointer",
             position: "fixed",
-            bottom: "10%",
+            bottom: "13%",
             right: "5%",
             zIndex: 10000,
             opacity: sliderVisible ? 1 : 0,

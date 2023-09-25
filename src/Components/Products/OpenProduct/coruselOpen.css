@@ -4,3 +4,9 @@
     padding: 18px 1%;
     font-weight: 500;
 }
+.image-gallery-using-mouse{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+

@@ -1,1 +1,1 @@
-export const Api = 'http://localhost:3001/products '
+export const Api = ' https://65379e3fbb226bb85dd384bf.mockapi.io'

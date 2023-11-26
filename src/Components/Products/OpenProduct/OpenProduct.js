@@ -17,7 +17,7 @@ export default function OpenProduct({ productInfo, setProductInfo }) {
   const [infoandcomments, setInfoAndComments] = useState("Info");
 useEffect(()=>{
   let openItemId = localStorage.getItem('OpenItem');
-  axios.get(`${Api}/products`).then((res)=>{
+  axios.get(Api).then((res)=>{
     const fetcheData = res.data; 
     const filtredData = fetcheData.filter((item) => item.id === openItemId)
     setOpenInfo(filtredData)

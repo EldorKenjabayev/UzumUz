@@ -2,7 +2,6 @@ import { Box, Button, Skeleton } from "@mui/material";
 import axios from "axios";
 import React, { useEffect, useState } from "react";
 import "./Product.css";
-import { Api } from "../../Api";
 import KeyboardArrowRightIcon from "@mui/icons-material/KeyboardArrowRight";
 import StarIcon from "@mui/icons-material/Star";
 import { Link } from "react-router-dom";
@@ -13,7 +12,7 @@ export default function Product({ setProductInfo }) {
   const [showSkeleton, setShowSkeleton] = useState(true);
   const [selectedCategory, setSelectedCategory] = useState("Chegirmalar");
   useEffect(() => {
-    axios.get(`${Api}/products`).then((res) => {
+    axios.get("http://localhost:3001/products").then((res) => {
       const initialProducts = res.data.map((product) => ({
         ...product,
         isFavorite: false,

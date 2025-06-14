@@ -14,7 +14,6 @@
     "axios": "^1.4.0",
     "boxicons": "^2.1.4",
     "hover-carousel": "^1.1.0",
-    "json-server": "^0.17.3",
     "material-ui-popup-state": "^5.0.9",
     "node-telegram-bot-api": "^0.61.0",
     "react": "^18.2.0",
